@@ -14,30 +14,103 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Windows
-* Outlook: [Gpg4Win](https://www.gpg4win.de) with [GpgOL](https://www.gpg4win.org/about.html)
-* Outlook: [gpg4o](https://www.giepa.de/produkte/gpg4o/)
-* Outlook: [p≡p](https://prettyeasyprivacy.com)
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)
+
+##### Gpg4Win
+ > Developer/Publisher: intevation  
+ > Plattform: Outlook  
+ > Homepage: https://www.gpg4win.de/?lang=en  
+ > Help: https://www.gpg4win.de/forum?lang=en
+
+##### gpg4o
+ > Developer/Publisher: Giegerich 6 Partner GmbH  
+ > Plattform: Outlook  
+ > Homepage: https://www.gpg4o.com  
+ > Help: https://www.gpg4o.com/forum?lang=en
+
+##### p≡p
+ > Developer/Publisher: p≡p Foundation  
+ > Plattform: Outlook  
+ > Homepage: https://prettyeasyprivacy.com  
+ > Help: https://prettyeasyprivacy.com/faq/
+
+##### Enigmail
+ > Developer/Publisher: [team](https://enigmail.net/index.php/en/2-english/24-team-members) of dedicated professionals  
+ > Plattform: Thunderbird  
+ > Homepage: https://enigmail.net/index.php/en/  
+ > Help: https://sourceforge.net/p/enigmail/forum/
+
+---
 
 ## Mac OS
-* Apple Mail: [GPGTools](https://gpgtools.org)
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)
+##### GPGTools
+ > Developer/Publisher: Open Source Community  
+ > Plattform: Apple Mail  
+ > Homepage: https://gpgtools.org   
+ > Help: https://gpgtools.tenderapp.com/discussions/problems
 
-## Android
-* [K-9 Mail](https://k9mail.github.io/): [OpenKeychain](http://www.openkeychain.org)
-* [p≡p](https://prettyeasyprivacy.com)
-* [R2Mail2](https://r2mail2.com)
+##### Enigmail
+ > Developer/Publisher: [team](https://enigmail.net/index.php/en/2-english/24-team-members) of dedicated professionals  
+ > Plattform: Thunderbird  
+ > Homepage: https://enigmail.net/index.php/en/  
+ > Help: https://sourceforge.net/p/enigmail/forum/
 
-## iOS
-* [iPGMail](https://ipgmail.com/)
+---
+## Mobile Devices
+##### K-9 Mail with Openkeychain
+ > Developer/Publisher: Open Source Community  
+ > Plattform: Android  
+ > Homepage: https://k9mail.github.io/  & https://www.openkeychain.org/  
+ > Help: https://github.com/k9mail/k-9/issues
+
+##### p≡p
+ > Developer/Publisher: p≡p Foundation  
+ > Plattform: Android  
+ > Homepage: https://prettyeasyprivacy.com  
+ > Help: https://prettyeasyprivacy.com/faq/
+
+##### R2Mail2
+ > Developer/Publisher: rundQuadrat OG  
+ > Plattform: Android  
+ > Homepage: https://r2mail2.com  
+ > Help: -
+
+##### iPGMail
+ > Developer/Publisher: Wyllys Ingersoll  
+ > Plattform: iOS  
+ > Homepage: https://ipgmail.com/  
+ > Help: https://ipgmail.com/support/
+
+---
 
 ## GNU/Linux
-* [Evolution](https://wiki.gnome.org/Apps/Evolution): [GnuPG](https://gnupg.org)/[Seahorse](https://wiki.gnome.org/action/show/Apps/Seahorse)
-* [KMail](https://www.kde.org/applications/internet/kmail/): [GnuPG](https://gnupg.org)/[Kleopatra](https://www.kde.org/applications/utilities/kleopatra/)
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)
+##### Seahorse
+ > Developer/Publisher: The GNOME Foundation  
+ > Plattform: [Evolution](https://wiki.gnome.org/Apps/Evolution)  
+ > Homepage: https://wiki.gnome.org/action/show/Apps/Seahorse   
+ > Help: https://bugzilla.gnome.org/
+
+##### Kleopatra
+ > Developer/Publisher: The GNOME Foundation  
+ > Plattform: [KMail](https://www.kde.org/applications/internet/kmail/)   
+ > Homepage: https://www.kde.org/applications/utilities/kleopatra/   
+ > Help: https://userbase.kde.org/Getting_Help/en
+ 
+##### Enigmail
+ > Developer/Publisher: [team](https://enigmail.net/index.php/en/2-english/24-team-members) of dedicated professionals  
+ > Plattform: Thunderbird  
+ > Homepage: https://enigmail.net/index.php/en/  
+ > Help: https://sourceforge.net/p/enigmail/forum/
+ 
+ ---
 
 ## Browser Plugins
-* [Mailvelope](https://www.mailvelope.com)
+##### Mailvelope
+ > Developer/Publisher: Mailvelope GmbH  
+ > Plattform: Chrome / Firefox  
+ > Homepage: https://www.mailvelope.com  
+ > Help: https://www.mailvelope.com/en/faq
+
+---
 
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using browser plugins.
@@ -47,6 +120,8 @@ The following webmail providers support email encryption via the OpenPGP standar
 * [POSTEO](https://posteo.de) (Mailvelope)
 * [WEB.DE](http://web.de/) (Mailvelope)
 
+---
+
 ## Webmail Provider with In-Browser Cryptography
 In contrast to the previous section, the following webmail providers do not require the installation of additional plugins, instead JavaScript cryptographic libraries are served by the website itself.
 While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider this "end-to-end"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
@@ -54,6 +129,8 @@ While these are easier to set up and provide basic security guarantees with Open
 * [Hushmail](https://www.hushmail.com/)
 * [Mailfence](https://www.mailfence.com/)
 * [ProtonMail](https://protonmail.com/)
+
+---
 
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.github.io](https://github.com/OpenPGP/openpgp.github.io).
