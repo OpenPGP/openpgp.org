@@ -14,27 +14,27 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Windows
-* Outlook: [Gpg4Win](https://www.gpg4win.de) with [GpgOL](https://www.gpg4win.org/about.html)
-* Outlook: [gpg4o](https://www.giepa.de/produkte/gpg4o/)
-* Outlook: [p≡p](https://prettyeasyprivacy.com)
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)
+* [Outlook](http://www.microsoft.com/outlook): [gpg4o](https://www.giepa.de/produkte/gpg4o/)<sup>[1](#gnupg)</sup>
+* [Outlook](http://www.microsoft.com/outlook): [Gpg4Win](https://www.gpg4win.de)<sup>[1](#gnupg)</sup>
+* [Outlook](http://www.microsoft.com/outlook): [p≡p](https://prettyeasyprivacy.com)<sup>[1](#gnupg)</sup>
+* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
 
 ## Mac OS
-* Apple Mail: [GPGTools](https://gpgtools.org)
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)
+* [Apple Mail](https://support.apple.com/mail): [GPGTools](https://gpgtools.org)<sup>[1](#gnupg)</sup>
+* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
 
 ## Android
 * [K-9 Mail](https://k9mail.github.io/): [OpenKeychain](http://www.openkeychain.org)
-* [p≡p](https://prettyeasyprivacy.com)
+* [p≡p](https://prettyeasyprivacy.com)<sup>[1](#gnupg)</sup>
 * [R2Mail2](https://r2mail2.com)
 
 ## iOS
 * [iPGMail](https://ipgmail.com/)
 
 ## GNU/Linux
-* [Evolution](https://wiki.gnome.org/Apps/Evolution): [GnuPG](https://gnupg.org)/[Seahorse](https://wiki.gnome.org/action/show/Apps/Seahorse)
-* [KMail](https://www.kde.org/applications/internet/kmail/): [GnuPG](https://gnupg.org)/[Kleopatra](https://www.kde.org/applications/utilities/kleopatra/)
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)
+* [Evolution](https://wiki.gnome.org/Apps/Evolution): [Seahorse](https://wiki.gnome.org/action/show/Apps/Seahorse)<sup>[1](#gnupg)</sup>
+* [KMail](https://www.kde.org/applications/internet/kmail/): [Kleopatra](https://www.kde.org/applications/utilities/kleopatra/)<sup>[1](#gnupg)</sup>
+* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
 
 ## Browser Plugins
 * [Mailvelope](https://www.mailvelope.com)
@@ -42,14 +42,14 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using browser plugins.
 
-* [GMX](http://www.gmx.net/) (Mailvelope)
-* [mailbox.org](https://mailbox.org/) (Mailvelope, also In-Browser Cryptography)
-* [POSTEO](https://posteo.de) (Mailvelope)
-* [WEB.DE](http://web.de/) (Mailvelope)
+* [GMX](http://www.gmx.net/)<sup>[2](#mailvelope)</sup>
+* [mailbox.org](https://mailbox.org/) (<sup>[2](#mailvelope)</sup>, also In-Browser Cryptography)
+* [POSTEO](https://posteo.de)<sup>[2](#mailvelope)</sup>
+* [WEB.DE](http://web.de/)<sup>[2](#mailvelope)</sup>
 
 ## Webmail Provider with In-Browser Cryptography
-In contrast to the previous section, the following webmail providers do not require the installation of additional plugins, instead JavaScript cryptographic libraries are served by the website itself.
-While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider this "end-to-end"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
+In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
+While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider these "end-to-end secure"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
 
 * [Hushmail](https://www.hushmail.com/)
 * [Mailfence](https://www.mailfence.com/)
@@ -59,3 +59,8 @@ While these are easier to set up and provide basic security guarantees with Open
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.github.io](https://github.com/OpenPGP/openpgp.github.io).
 Please note that we only include published, working software, which implements the standard.
 The software is ordered alphabetically within the sections.
+
+---
+
+<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)
+<a name="mailvelope">2</a>: requires [Mailvelope](https://www.mailvelope.com)
