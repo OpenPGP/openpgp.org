@@ -62,5 +62,5 @@ The software is ordered alphabetically within the sections.
 
 ---
 
-<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)
+<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)  
 <a name="mailvelope">2</a>: requires [Mailvelope](https://www.mailvelope.com)
