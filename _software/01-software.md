@@ -21,6 +21,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Mac OS
 * [Apple Mail](https://support.apple.com/mail): [GPGTools](https://gpgtools.org)<sup>[1](#gnupg)</sup>
+* [Mutt](http://www.mutt.org/)<sup>[2](#gpgme)</sup>
 * [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
 
 ## Android
@@ -34,6 +35,11 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## GNU/Linux
 * [Evolution](https://wiki.gnome.org/Apps/Evolution): [Seahorse](https://wiki.gnome.org/action/show/Apps/Seahorse)<sup>[1](#gnupg)</sup>
 * [KMail](https://www.kde.org/applications/internet/kmail/): [Kleopatra](https://www.kde.org/applications/utilities/kleopatra/)<sup>[1](#gnupg)</sup>
+* [Mutt](http://www.mutt.org/)<sup>[2](#gpgme)</sup>
+* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
+
+## SunOS/Solaris
+* [Mutt](http://www.mutt.org/)<sup>[2](#gpgme)</sup>
 * [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
 
 ## Browser Plugins
@@ -42,10 +48,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using browser plugins.
 
-* [GMX](http://www.gmx.net/)<sup>[2](#mailvelope)</sup>
-* [mailbox.org](https://mailbox.org/) (<sup>[2](#mailvelope)</sup>, also In-Browser Cryptography)
-* [POSTEO](https://posteo.de)<sup>[2](#mailvelope)</sup>
-* [WEB.DE](http://web.de/)<sup>[2](#mailvelope)</sup>
+* [GMX](http://www.gmx.net/)<sup>[3](#mailvelope)</sup>
+* [mailbox.org](https://mailbox.org/) (<sup>[3](#mailvelope)</sup>, also In-Browser Cryptography)
+* [POSTEO](https://posteo.de)<sup>[3](#mailvelope)</sup>
+* [WEB.DE](http://web.de/)<sup>[3](#mailvelope)</sup>
 
 ## Webmail Provider with In-Browser Cryptography
 In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
@@ -62,5 +68,6 @@ The software is ordered alphabetically within the sections.
 
 ---
 
-<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)  
-<a name="mailvelope">2</a>: requires [Mailvelope](https://www.mailvelope.com)
+<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)
+<a name="gpgme">2</a>: uses [GnuPG](https://www.gnupg.org) with (optionally) the [GPG Made Easy](https://www.gnupg.org/related_software/gpgme/index.html) API.
+<a name="mailvelope">3</a>: requires [Mailvelope](https://www.mailvelope.com)
