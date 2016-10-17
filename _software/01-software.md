@@ -68,6 +68,6 @@ The software is ordered alphabetically within the sections.
 
 ---
 
-<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)
-<a name="gpgme">2</a>: uses [GnuPG](https://www.gnupg.org) with (optionally) the [GPG Made Easy](https://www.gnupg.org/related_software/gpgme/index.html) API.
+<a name="gnupg">1</a>: uses [GnuPG](https://www.gnupg.org)  
+<a name="gpgme">2</a>: uses [GnuPG](https://www.gnupg.org) with (optionally) the [GPG Made Easy](https://www.gnupg.org/related_software/gpgme/index.html) API.  
 <a name="mailvelope">3</a>: requires [Mailvelope](https://www.mailvelope.com)
