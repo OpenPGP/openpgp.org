@@ -5,7 +5,7 @@ I encourage all visitors to participate in creating and improving content of thi
 We are open for pull requests!
 
 # Licenses
-* Theme: MIT License
+* Theme: [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) MIT License
 
 # Image Licenses
 All images are under Public Domain (CC0), except otherwise noted.
