@@ -17,7 +17,7 @@ Enigmail is an OpenPGP addon for Mozilla Thunderbird. This product brings the en
 
 * Developer/Publisher: 
 * Application field: [Team](https://enigmail.net/index.php/en/documentation/license-information/2-english/24-team-members) of dedicated professionals
-* Licensetype: Open Source (MPL)
+* License: Open Source (MPL)
 * Price: Free. [Donations](https://enigmail.net/index.php/en/home/donations) desired
 * Web: [https://enigmail.net/index.php/en/](https://enigmail.net/index.php/en/)
 * Help: Help is provided by volunteers 
