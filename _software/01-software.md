@@ -14,10 +14,10 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Windows
-* [Outlook](http://www.microsoft.com/outlook): [gpg4o](https://www.giepa.de/produkte/gpg4o/)<sup>[1](#gnupg)</sup>
-* [Outlook](http://www.microsoft.com/outlook): [Gpg4Win](https://www.gpg4win.de)<sup>[1](#gnupg)</sup>
-* [Outlook](http://www.microsoft.com/outlook): [p≡p](https://prettyeasyprivacy.com)<sup>[1](#gnupg)</sup>
-* [Thunderbird](https://www.mozilla.org/de/thunderbird/): [Enigmail](https://enigmail.net)<sup>[1](#gnupg)</sup>
+* [Outlook : gpg4o](/software/gpg4o/)<sup>[1](#gnupg)</sup>
+* [Outlook : Gpg4win](/software/gpg4win/)<sup>[1](#gnupg)</sup>
+* [Outlook : p≡p](/software/p≡p/)<sup>[1](#gnupg)</sup>
+* [Thunderbird : Enigmail](/software/enigmail/)<sup>[1](#gnupg)</sup>
 
 ## Mac OS
 * [Apple Mail](https://support.apple.com/mail): [GPGTools](https://gpgtools.org)<sup>[1](#gnupg)</sup>
