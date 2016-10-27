@@ -16,7 +16,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Windows
 * [Outlook : gpg4o](/software/gpg4o/)<sup>[1](#gnupg)</sup>
 * [Outlook : Gpg4win](/software/gpg4win/)<sup>[1](#gnupg)</sup>
-* [Outlook : p≡p](/software/p≡p/)<sup>[1](#gnupg)</sup>
+* [Outlook : p≡p](/software/pep/)<sup>[1](#gnupg)</sup>
 * [Thunderbird : Enigmail](/software/enigmail/)<sup>[1](#gnupg)</sup>
 
 ## Mac OS

@@ -10,13 +10,12 @@ modified: 2016-10-25T15:00:00-00:00
 {% include toc %}
 
 # Enigmail
-Enigmail is an OpenPGP addon for Mozilla Thunderbird. This product brings the encryption features provieded by GnuPG into Thunderbird and allows to sign and encrypt all your emails.
+Enigmail is an Add-On for Mozilla Thunderbird. With GnuPG, it implements the OpenPGP standard. The product enables email encryption and signing directly into Thunderbird. The focus is on an easy interface for email security. 
 
 
 ### Key Facts
 
-* Developer/Publisher: 
-* Application field: [Team](https://enigmail.net/index.php/en/documentation/license-information/2-english/24-team-members) of dedicated professionals
+* Developer/Publisher: [Team](https://enigmail.net/index.php/en/documentation/license-information/2-english/24-team-members) of dedicated professionals
 * License: Open Source (MPL)
 * Price: Free. [Donations](https://enigmail.net/index.php/en/home/donations) desired
 * Web: [https://enigmail.net/index.php/en/](https://enigmail.net/index.php/en/)
