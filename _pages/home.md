@@ -12,7 +12,7 @@ feature_row:
   - image_path: home_mailbox_bw.jpg
     alt: "Email encryption"
     title: "Email encryption"
-    excerpt: "Although, OpenPGP's main purpose is end-to-end encrypted email communication, it is also utilized for encrypted messaging and other use cases, such as password managers."
+    excerpt: "Although OpenPGP's main purpose is end-to-end encrypted email communication, it is also utilized for encrypted messaging and other use cases such as password managers."
     url: "/software/"
     btn_label: "Learn More"
   - image_path: home_computer_bw.jpg
