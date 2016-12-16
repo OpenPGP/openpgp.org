@@ -1,11 +1,10 @@
 ---
 title: "Seahorse"
-permalink: /software/seahorse
+permalink: /software/seahorse/
 excerpt: "Email Encryption"
 modified: 2016-10-25T15:00:00-00:00
 ---
 
-# Seahorse
 Seahorse is a Linux application that implements the OpenPGP standard. With this software, you can manage your keys and use the cryptographical features for files and texts. In association with the [Evolution](https://wiki.gnome.org/Apps/Evolution) email client, you can also use the encryption features for your communication.
 
 ### Key Facts

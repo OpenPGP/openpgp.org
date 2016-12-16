@@ -1,11 +1,10 @@
 ---
 title: "OpenKeychain"
-permalink: /software/openkeychain
+permalink: /software/openkeychain/
 excerpt: "Email Encryption"
 modified: 2016-10-25T15:00:00-00:00
 ---
 
-# OpenKeychain
 OpenKeychain is an Android app that brings secure communication, through the OpenPGP Standard, to your mobile phone. This app manages your keys and can also decrypt/encrypt data. It also integrates with other apps and brings the encryption feature to these apps. In association with [K-9 Mail](https://k9mail.github.io/) you have a secure email client for your Android phone.
 
 
@@ -13,7 +12,7 @@ OpenKeychain is an Android app that brings secure communication, through the Ope
 
 * Developer/Publisher: [Team](https://github.com/orgs/open-keychain/people) of dedicated professionals with community
 * License: Open Source (GNU GPL)
-* Price: Free. [Donations](https://flattr.com/submit/auto?fid=4vzg0p&url=https%3A%2F%2Fwww.openkeychain.org) desired
+* Price: Free. [Donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=dominik%40sufficientlysecure.org&lc=US&item_name=OpenKeychain+Donation&no_note=0&no_shipping=1&currency_code=EUR) desired
 * Web: [https://www.openkeychain.org](https://www.openkeychain.org)
 * Help: Help is provided by the community
 	* [Forum](https://lists.riseup.net/www/arc/openkeychain)

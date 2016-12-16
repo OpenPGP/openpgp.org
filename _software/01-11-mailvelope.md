@@ -1,11 +1,10 @@
 ---
 title: "Mailvelope"
-permalink: /software/mailvelope
+permalink: /software/mailvelope/
 excerpt: "Email Encryption"
 modified: 2016-10-25T15:00:00-00:00
 ---
 
-# Mailvelope
 Mailvelope is a browser extension for Google Chrome and Firefox that allows secure email communication based on the OpenPGP standard. It can be configured to work with arbitrary Webmail provider. The project focuses on easy usage and good integration with nearly every webmail client.
 
 ### Key Facts

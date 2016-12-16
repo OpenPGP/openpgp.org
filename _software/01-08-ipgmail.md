@@ -1,11 +1,10 @@
 ---
 title: "iPG Mail"
-permalink: /software/ipgmail
+permalink: /software/ipgmail/
 excerpt: "Email Encryption"
 modified: 2016-10-25T15:00:00-00:00
 ---
 
-# iPGMail
 iPGMail is an iOS app that implements the OpenPGP standard. The app manages your keys and also brings all cryptographic features to your Apple device. In association with the iOS Mail application, it is also possible to take advantages of the OpenPGP implementation in your email communication.
 
 
