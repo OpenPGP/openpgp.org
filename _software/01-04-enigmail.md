@@ -13,7 +13,7 @@ Enigmail is an Add-On for Mozilla Thunderbird. With GnuPG, it implements the Ope
 * Developer/Publisher: [Team](https://enigmail.net/index.php/en/documentation/license-information/2-english/24-team-members) of dedicated professionals
 * License: Open Source (MPL)
 * Price: Free. [Donations](https://enigmail.net/index.php/en/home/donations) desired
-* Web: [https://enigmail.net/index.php/en/](https://enigmail.net/index.php/en/)
+* Web: [https://enigmail.net](https://enigmail.net)
 * Help: Help is provided by volunteers 
 	* [Forum](https://sourceforge.net/p/enigmail/forum/)
 	* [FAQ](https://enigmail.net/index.php/en/faq?view=category&id=11)
