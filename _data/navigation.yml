@@ -9,9 +9,6 @@ main:
   - title: "Community"
     url: /community/
 
-  - title: "Blog"
-    url: /blog/
-
 # about
 about:
   - title: About
