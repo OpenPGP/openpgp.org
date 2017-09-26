@@ -14,6 +14,7 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Windows
+* [eM Client](/software/emclient/)<sup>[1](#gnupg)</sup>
 * [Outlook : gpg4o](/software/gpg4o/)<sup>[1](#gnupg)</sup>
 * [Outlook : Gpg4win](/software/gpg4win/)<sup>[1](#gnupg)</sup>
 * [Outlook : p≡p](/software/pep/)<sup>[1](#gnupg)</sup>
