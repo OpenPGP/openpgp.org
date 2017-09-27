@@ -1,7 +1,7 @@
 ---
 title: "Developer Tools"
 permalink: /software/developer/
-excerpt: "Developer Tools"
+excerpt: "Developer Libraries/Tools"
 modified: 2016-08-15T15:00:00-00:00
 ---
 
@@ -13,9 +13,19 @@ All applications on this page implement the OpenPGP standard.
 The authors of this webpage are not actively participating in the development of each of these third-party apps.
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
+## OpenPGP Libraries
+* [Bouncy Castle](https://www.bouncycastle.org/)
+* [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/index.html)
+* [Haskell openpgp](https://hackage.haskell.org/package/openpgp)
+* [NetPGP](http://www.netpgp.com/)
+* [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP)
+* [OpenKeychain API](https://github.com/open-keychain/openpgp-api)
+* [OpenPGP.js](https://openpgpjs.org/)
+
 ## Developer Tools
 * [Debian Package Signing with GnuPG](https://wiki.debian.org/SecureApt)
 * [Git Tools - Signing Your Work with GnuPG](https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work)
+* [Monkeysign](http://web.monkeysphere.info/monkeysign)
 * [pass: the standard unix password manager](https://www.passwordstore.org/)
 
 ## Project Missing?

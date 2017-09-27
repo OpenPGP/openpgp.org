@@ -30,7 +30,7 @@ software:
         url: /software/
       - title: "Other"
         url: /software/other/
-      - title: "Developer Tools"
+      - title: "Developer Libraries/Tools"
         url: /software/developer/
 
 # community
