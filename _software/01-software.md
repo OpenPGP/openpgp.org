@@ -15,18 +15,18 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Windows
 * [eM Client](/software/emclient/)
-* [Outlook : gpg4o](/software/gpg4o/)
-* [Outlook : Gpg4win](/software/gpg4win/)
-* [Outlook : p≡p](/software/pep/)
-* [Thunderbird : Enigmail](/software/enigmail/)
+* [Outlook: gpg4o](/software/gpg4o/)
+* [Outlook: Gpg4win](/software/gpg4win/)
+* [Outlook: p≡p](/software/pep/)
+* [Thunderbird: Enigmail](/software/enigmail/)
 
 ## Mac OS
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Mutt](/software/mutt/)
-* [Thunderbird : Enigmail](/software/enigmail/)
+* [Thunderbird: Enigmail](/software/enigmail/)
 
 ## Android
-* [K-9 Mail : OpenKeychain](/software/openkeychain/)
+* [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [p≡p](/software/pep/)
 * [R2Mail2](/software/r2mail2/)
 
@@ -34,14 +34,14 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [iPGMail](/software/ipgmail/)
 
 ## GNU/Linux
-* [Evolution : Seahorse](/software/seahorse/)
-* [KMail : Kleopatra](/software/kleopatra/)
+* [Evolution: Seahorse](/software/seahorse/)
+* [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
-* [Thunderbird : Enigmail](/software/enigmail/)
+* [Thunderbird: Enigmail](/software/enigmail/)
 
 ## SunOS/Solaris
 * [Mutt](/software/mutt/)
-* [Thunderbird : Enigmail](/software/enigmail/)
+* [Thunderbird: Enigmail](/software/enigmail/)
 
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
@@ -51,7 +51,7 @@ The following webmail providers support email encryption via the OpenPGP standar
 
 * [GMX](http://www.gmx.net/)
 * [mailbox.org](https://mailbox.org/)
-* [POSTEO](https://posteo.de)
+* [Posteo](https://posteo.de)
 * [WEB.DE](http://web.de/)
 
 ## Webmail Provider with In-Browser Cryptography
