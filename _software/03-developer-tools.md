@@ -1,5 +1,5 @@
 ---
-title: "Developer Tools"
+title: "Developer Libraries/Tools"
 permalink: /software/developer/
 excerpt: "Developer Libraries/Tools"
 modified: 2016-08-15T15:00:00-00:00
