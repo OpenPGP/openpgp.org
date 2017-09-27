@@ -2,7 +2,7 @@
 title: "eM Client"
 permalink: /software/emclient/
 excerpt: "Email Encryption"
-modified: 2016-10-25T15:00:00-00:00
+modified: 2017-09-27T09:00:00-00:00
 ---
 
 eM Client is a versatile email client with calendar, tasks and chat. It supports both PGP/MIME and traditional armored PGP and focuses on ease of use. eM Client synchronizes with Gmail, Office 365, Exchange and any IMAP/POP3/CalDAV/CardDAV/XMPP server.
