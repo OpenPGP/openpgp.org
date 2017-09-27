@@ -12,7 +12,7 @@ OpenKeychain is an Android app that brings secure communication, through the Ope
 
 * Developer/Publisher: [Team](https://github.com/orgs/open-keychain/people) of dedicated professionals with community
 * License: Open Source (GNU GPL)
-* Price: Free. [Donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=dominik%40sufficientlysecure.org&lc=US&item_name=OpenKeychain+Donation&no_note=0&no_shipping=1&currency_code=EUR) desired
+* Price: Free. [Donations](https://www.openkeychain.org/) desired
 * Web: [https://www.openkeychain.org](https://www.openkeychain.org)
 * Help: Help is provided by the community
 	* [Forum](https://lists.riseup.net/www/arc/openkeychain)
