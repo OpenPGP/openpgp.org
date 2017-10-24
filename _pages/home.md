@@ -18,13 +18,13 @@ feature_row:
   - image_path: home_computer_bw.jpg
     alt: "For all operating systems"
     title: "For all operating systems"
-    excerpt: "OpenPGP is available for all major platforms, such as Windows, Mac OS, GNU/Linux, Android, and, iOS."
+    excerpt: "OpenPGP is available for all major platforms, such as Windows, Mac OS, GNU/Linux, Android, and iOS."
     url: "/software/"
     btn_label: "Learn More"
   - image_path: home_stamp_bw.jpg
     alt: "Standing the test of time"
     title: "Standing the test of time"
-    excerpt: "OpenPGP has been standardized in 1997 and since then continuously improved. As far as we know, intelligence organizations aren't able to break it."
+    excerpt: "OpenPGP was standardized in 1997 and since then continuously improved. As far as we know, intelligence organizations aren't able to break it."
     url: "/about/"
     btn_label: "Learn More"
 intro:
