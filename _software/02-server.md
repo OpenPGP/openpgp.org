@@ -13,7 +13,8 @@ All applications on this page implement the OpenPGP standard.
 The authors of this webpage are not actively participating in the development of each of these third-party apps.
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
-## Other Projects
+## Webmail clients
+
 * [Mailpile](https://mailpile.is)
 * [Pixelated](https://pixelated-project.org)
 
@@ -23,7 +24,8 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Nyms](http://nyms.io)
 * [SKS Keyserver](https://sks-keyservers.net)
 
-## Miscellaneous
+## Mailing list software
+
 * [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
 
 ## Project Missing?
