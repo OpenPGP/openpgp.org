@@ -28,8 +28,8 @@ software:
     children:
       - title: "Email Encryption"
         url: /software/
-      - title: "Other"
-        url: /software/other/
+      - title: "Server-side services"
+        url: /software/server/
       - title: "Developer Libraries/Tools"
         url: /software/developer/
 

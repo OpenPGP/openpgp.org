@@ -1,8 +1,8 @@
 ---
-title: "Other"
-permalink: /software/other/
-excerpt: "Other"
-modified: 2016-08-15T15:00:00-00:00
+title: "Server"
+permalink: /software/server/
+excerpt: "Server software"
+modified: 2017-11-25T13:35:11-05:00
 ---
 
 {% include base_path %}
