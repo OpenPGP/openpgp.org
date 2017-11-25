@@ -49,6 +49,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Webmail software with OpenPGP support
 
 * [Mailpile](https://mailpile.is)
+* [Roundcube](https://roundcube.net/)
 
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
