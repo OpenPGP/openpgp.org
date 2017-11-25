@@ -13,9 +13,6 @@ All applications on this page implement the OpenPGP standard.
 The authors of this webpage are not actively participating in the development of each of these third-party apps.
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
-## Other Projects
-* [Pixelated](https://pixelated-project.org)
-
 ## Keyservers
 * [LEAP](https://leap.se)
 * [Mailvelope Keyserver](https://keys.mailvelope.com)
