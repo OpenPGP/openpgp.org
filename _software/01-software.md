@@ -46,6 +46,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
 
+## Webmail software with OpenPGP support
+
+* [Mailpile](https://mailpile.is)
+
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
 

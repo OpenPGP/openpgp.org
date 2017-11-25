@@ -14,7 +14,6 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Other Projects
-* [Mailpile](https://mailpile.is)
 * [Pixelated](https://pixelated-project.org)
 
 ## Keyservers
