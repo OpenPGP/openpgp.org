@@ -17,6 +17,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Mailpile](https://mailpile.is)
 * [Pixelated](https://pixelated-project.org)
+* [Roundcube](https://roundcube.net/)
 
 ## Keyservers
 
@@ -29,8 +30,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Mailing list software
 
 * [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+* [Mailman 3 PGP plugin](https://pypi.python.org/pypi/mailman-pgp)
 
 ## Project Missing?
+
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.github.io](https://github.com/OpenPGP/openpgp.github.io).
 Please note that we only include published, working software, which implements the standard.
 The software is ordered alphabetically within the sections.
