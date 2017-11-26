@@ -2,7 +2,7 @@
 title: "Email Encryption"
 permalink: /software/
 excerpt: "Email Encryption"
-modified: 2017-09-27T09:00:00-00:00
+modified: 2017-11-25T09:00:00-00:00
 ---
 
 {% include base_path %}
@@ -46,6 +46,12 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
 
+## Webmail software with OpenPGP support
+
+* [Mailpile](https://mailpile.is)
+* [Roundcube](https://roundcube.net/)
+* [Pixelated](https://pixelated-project.org)
+
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
 
@@ -61,6 +67,10 @@ While these are easier to set up and provide basic security guarantees with Open
 * [Hushmail](https://www.hushmail.com/)
 * [Mailfence](https://www.mailfence.com/)
 * [ProtonMail](https://protonmail.com/)
+
+## Mailing list software
+
+* [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
 
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.github.io](https://github.com/OpenPGP/openpgp.github.io).
