@@ -24,7 +24,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [SKS Keyserver](https://sks-keyservers.net)
 
 ## Miscellaneous
-* [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+* [Schleuder encrypted mailinglist](https://schleuder.nadir.org/)
 
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.github.io](https://github.com/OpenPGP/openpgp.github.io).
