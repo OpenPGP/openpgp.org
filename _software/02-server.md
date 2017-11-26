@@ -29,7 +29,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Mailing list software
 
-* [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+* [Schleuder encrypted mailinglist](https://schleuder.nadir.org/)
 * [Mailman 3 PGP plugin](https://pypi.python.org/pypi/mailman-pgp)
 
 ## Project Missing?
