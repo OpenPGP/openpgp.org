@@ -26,7 +26,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Developer Tools
 * [Debian Package Signing with GnuPG](https://wiki.debian.org/SecureApt)
-* [Distributed Key Generation and Threshold Cryptography for OpenPGP][http://www.nongnu.org/dkgpg/]
+* [Distributed Key Generation and Threshold Cryptography for OpenPGP](http://www.nongnu.org/dkgpg/)
 * [Git Tools - Signing Your Work with GnuPG](https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work)
 * [Monkeysign](http://web.monkeysphere.info/monkeysign)
 * [pass: the standard unix password manager](https://www.passwordstore.org/)
