@@ -32,6 +32,6 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [pass: the standard unix password manager](https://www.passwordstore.org/)
 
 ## Project Missing?
-If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.github.io](https://github.com/OpenPGP/openpgp.github.io).
+If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
 Please note that we only include published, working software, which implements the standard.
 The software is ordered alphabetically within the sections.
