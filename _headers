@@ -3,4 +3,4 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
-  Content-Security-Policy: frame-ancestors 'none'; base-uri 'self'; default-src 'none'; script-src 'self'; img-src 'self'; style-src 'self'; font-src 'self' data:; frame-src 'self'; object-src 'none'; font-src 'self';
+  Content-Security-Policy: default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; base-uri 'self';  img-src 'self';  frame-src 'self'; font-src 'self'; object-src 'none'; frame-ancestors 'none';
