@@ -23,9 +23,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Nicknym](https://leap.se/en/docs/design/nicknym), from
   the [LEAP](https://leap.se/) project
-* [Mailvelope Keyserver](https://keys.mailvelope.com)
+* [Mailvelope Keyserver](https://keys.mailvelope.com) (in JS)
 * [Nyms](http://nyms.io)
-* [SKS Keyserver](https://sks-keyservers.net)
+* [SKS Keyserver](https://sks-keyservers.net) (in OCaml)
+* [Hockeypuck Keyserver](https://hockeypuck.github.io/) (in Go)
 
 ## Mailing list software
 

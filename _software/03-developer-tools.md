@@ -24,6 +24,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   (Objective C)
 * [OpenKeychain API](https://github.com/open-keychain/openpgp-api) (Java)
 * [OpenPGP.js](https://openpgpjs.org/) (Javascript)
+* [Swift-PGP](https://github.com/kryptco/swift-pgp/) (Swift)
 
 ## Developer Tools
 * [Debian Package Signing with GnuPG](https://wiki.debian.org/SecureApt)
