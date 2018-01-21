@@ -58,9 +58,9 @@ The following webmail providers support email encryption via the OpenPGP standar
 In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
 While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider these "end-to-end secure"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
 
-* [Hushmail](https://www.hushmail.com/)
+* [Hushmail](https://www.hushmail.com/) (limited OpenPGP support)
 * [Mailfence](https://www.mailfence.com/)
-* [ProtonMail](https://protonmail.com/)
+* [ProtonMail](https://protonmail.com/) (only incoming OpenPGP support)
 
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
