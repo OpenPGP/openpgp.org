@@ -15,9 +15,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Windows
 * [eM Client](/software/emclient/)
-* [Outlook: gpg4o](/software/gpg4o/)
-* [Outlook: Gpg4win](/software/gpg4win/)
-* [Outlook: p≡p](/software/pep/)
+* Outlook:
+  * [gpg4o](/software/gpg4o/)
+  * [Gpg4win](/software/gpg4win/)
+  * [p≡p](/software/pep/)
 * [Thunderbird: Enigmail](/software/enigmail/)
 
 ## Mac OS
@@ -33,13 +34,9 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## iOS
 * [iPGMail](/software/ipgmail/)
 
-## GNU/Linux
+## Linux
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
-* [Mutt](/software/mutt/)
-* [Thunderbird: Enigmail](/software/enigmail/)
-
-## SunOS/Solaris
 * [Mutt](/software/mutt/)
 * [Thunderbird: Enigmail](/software/enigmail/)
 
