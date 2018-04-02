@@ -42,6 +42,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
+* [Psono](/software/psono/)
 
 ## Webmail Provider with Browser Plugins
 The following webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
