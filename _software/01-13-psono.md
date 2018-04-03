@@ -5,7 +5,8 @@ excerpt: "Email Encryption"
 modified: 2018-04-02T14:00:00-00:00
 ---
 
-Mailvelope is mainly a password manager, that allows with his browser extension for Google Chrome and Firefox to encrypt and decrypt messages based on the OpenPGP standard. It is tightly integrated with various Webmail provider e.g. gmail, yahoo and outlook.com.
+Psono is mainly a password manager, that allows with his browser extension for Google Chrome and Firefox to encrypt and decrypt messages based on the OpenPGP standard. It is tightly integrated with various Webmail provider.
+The private keys can be shared and synced with users and teams.
 
 ### Key Facts
 
