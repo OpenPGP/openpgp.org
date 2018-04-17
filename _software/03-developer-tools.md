@@ -15,15 +15,23 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## OpenPGP Libraries
 * [Bouncy Castle](https://www.bouncycastle.org/) (Java/C#)
+* [calccrypto/OpenPGP](https://github.com/calccrypto/OpenPGP) (C++)
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
   with Python and Lisp bindings)
-* [Haskell OpenPGP](https://hackage.haskell.org/package/openpgp)
-* [NeoPG](https://neopg.io/)
+* [Goland PGP](https://godoc.org/golang.org/x/crypto/openpgp) (Go)
+* [Haskell OpenPGP](https://hackage.haskell.org/package/openpgp) (Haskell)
+* [hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) (Haskell)
+* [kbpgp](https://github.com/keybase/kbpgp/) (JavaScript)
+* [NeoPG](https://neopg.io/) (C, GnuPG fork as a library)
 * [NetPGP](http://www.netpgp.com/) (C, with Python, Perl and Lua bindings)
 * [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP)
   (Objective C)
+* [OCaml PGP](https://github.com/cfcs/ocaml-openpgp) (OCaml)
 * [OpenKeychain API](https://github.com/open-keychain/openpgp-api) (Java)
 * [OpenPGP.js](https://openpgpjs.org/) (Javascript)
+* [PGPy](https://github.com/SecurityInnovation/PGPy/) (Python)
+* [rnp](https://github.com/riboseinc/rnp) (C, NetPGP fork)
+* [Sequoia PGP](https://sequoia-pgp.org/) (Rust)
 * [Swift-PGP](https://github.com/kryptco/swift-pgp/) (Swift)
 
 ## Developer Tools
