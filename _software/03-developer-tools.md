@@ -18,7 +18,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [calccrypto/OpenPGP](https://github.com/calccrypto/OpenPGP) (C++)
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
   with Python and Lisp bindings)
-* [Goland PGP](https://godoc.org/golang.org/x/crypto/openpgp) (Go)
+* [Golang OpenPGP](https://godoc.org/golang.org/x/crypto/openpgp) (Go)
 * [Haskell OpenPGP](https://hackage.haskell.org/package/openpgp) (Haskell)
 * [hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) (Haskell)
 * [kbpgp](https://github.com/keybase/kbpgp/) (JavaScript)
