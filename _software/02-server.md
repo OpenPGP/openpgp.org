@@ -37,6 +37,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Passbolt](https://www.passbolt.com/)
 
+## Encryption Services
+
+* [EveryCloud Email Encryption](https://www.everycloudtech.com/everycloud-email-encryption)
+
 ## Project Missing?
 
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
