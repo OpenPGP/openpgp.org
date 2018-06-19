@@ -42,6 +42,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
+* [FlowCrypt (Gmail)](https://flowcrypt.com/)
 * [Psono](/software/psono/)
 
 ## Webmail Provider with Browser Plugins
