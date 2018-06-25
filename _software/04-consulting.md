@@ -11,7 +11,6 @@ modified: 2018-06-25T15:00:00-00:00
 
 The following organizations provide OpenPGP consulting.
 
-## OpenPGP Consulting Organizations
 * [Confidential Technologies](https://www.cotech.de/)
 * [Intevation](https://intevation.de/)
 * [g10 Code](https://g10code.com/)
