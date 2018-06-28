@@ -28,7 +28,7 @@ software:
     children:
       - title: "Email Encryption"
         url: /software/
-      - title: "Server-side services"
+      - title: "Server Software"
         url: /software/server/
       - title: "Developer Libraries/Tools"
         url: /software/developer/

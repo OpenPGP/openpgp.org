@@ -7,8 +7,6 @@ modified: 2018-06-25T15:00:00-00:00
 
 {% include base_path %}
 
-{% include toc %}
-
 The following organizations provide OpenPGP consulting.
 
 * [Confidential Technologies](https://www.cotech.de/)

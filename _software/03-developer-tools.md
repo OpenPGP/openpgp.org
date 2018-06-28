@@ -7,8 +7,6 @@ modified: 2016-08-15T15:00:00-00:00
 
 {% include base_path %}
 
-{% include toc %}
-
 All applications on this page implement the OpenPGP standard.
 The authors of this webpage are not actively participating in the development of each of these third-party apps.
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
