@@ -10,8 +10,8 @@ modified: 2018-06-25T15:00:00-00:00
 The following organizations provide OpenPGP consulting.
 
 * [Confidential Technologies GmbH](https://www.cotech.de/services/)
-* [Intevation GmbH](https://intevation.de/)
 * [g10 Code GmbH](https://g10code.com/)
+* [Intevation GmbH](https://intevation.de/)
 
 ## Organization Missing?
 If a organization is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
