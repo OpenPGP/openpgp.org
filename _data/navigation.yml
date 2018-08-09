@@ -11,20 +11,20 @@ main:
 
 # about
 about:
-  - title: About
+  - title: "About"
     children:
       - title: "About"
         url: /about/
       - title: "History"
         url: /about/history/
-  - title: Technical
+  - title: "Technical"
     children:
       - title: "Standard"
         url: /about/standard/
 
 # software
 software:
-  - title: Software
+  - title: "Software"
     children:
       - title: "Email Encryption"
         url: /software/
@@ -37,7 +37,7 @@ software:
 
 # community
 community:
-  - title: Community/Companies
+  - title: "Community/Companies"
     children:
       - title: "Community/Companies"
         url: /community/
