@@ -1,7 +1,7 @@
 ---
 title: "Community/Companies"
 permalink: /community/
-excerpt: "Community"
+excerpt: "Community/Companies"
 modified: 2018-08-9T15:00:00-00:00
 ---
 
