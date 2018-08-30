@@ -1,0 +1,8 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
+    Content-Security-Policy = "default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; base-uri 'self';  img-src 'self';  frame-src 'self'; font-src 'self' data:; object-src 'none'; frame-ancestors 'none';"
