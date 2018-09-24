@@ -12,7 +12,7 @@ GPG Tools is a whole package of GPG based software tools. This suite contains fo
 
 * Developer/Publisher: Community project
 * License: Open Source (GNU GPL)
-* Price: Free. [Donations](https://gpgtools.org/donate.html) desired
+* Price: € 23.80
 * Web: [https://gpgtools.org/](https://gpgtools.org/)
 * Help: Help is provided by the support team
 	* [Forum](https://gpgtools.tenderapp.com/)
