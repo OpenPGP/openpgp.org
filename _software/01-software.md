@@ -23,6 +23,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Mac OS
 * [Apple Mail: GPGTools](/software/gpgtools/)
+* [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
 * [Thunderbird: Enigmail](/software/enigmail/)
 
@@ -32,6 +33,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [R2Mail2](/software/r2mail2/)
 
 ## iOS
+* [Canary Mail](/software/canary-mail/)
 * [iPGMail](/software/ipgmail/)
 
 ## Linux
