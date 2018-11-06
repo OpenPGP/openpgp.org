@@ -28,7 +28,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [OpenKeychain API](https://github.com/open-keychain/openpgp-api) (Java)
 * [OpenPGP.js](https://openpgpjs.org/) (Javascript)
 * [PGPy](https://github.com/SecurityInnovation/PGPy/) (Python)
-* [rnp](https://github.com/riboseinc/rnp) (C++, NetPGP fork)
+* [RNP](https://www.rnpgp.com/) (C++)
 * [Sequoia PGP](https://sequoia-pgp.org/) (Rust)
 * [Swift-PGP](https://github.com/kryptco/swift-pgp/) (Swift)
 
