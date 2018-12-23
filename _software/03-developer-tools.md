@@ -2,7 +2,7 @@
 title: "Developer Libraries/Tools"
 permalink: /software/developer/
 excerpt: "Developer Libraries/Tools"
-modified: 2016-08-15T15:00:00-00:00
+modified: 2018-12-22T00:32:11-00:00
 ---
 
 {% include base_path %}
@@ -26,6 +26,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   (Objective C)
 * [OCaml PGP](https://github.com/cfcs/ocaml-openpgp) (OCaml)
 * [OpenKeychain API](https://github.com/open-keychain/openpgp-api) (Java)
+* [OpenPGP-PHP](https://github.com/singpolyma/openpgp-php) (PHP)
 * [OpenPGP.js](https://openpgpjs.org/) (Javascript)
 * [PGPy](https://github.com/SecurityInnovation/PGPy/) (Python)
 * [RNP](https://www.rnpgp.com/) (C++)
