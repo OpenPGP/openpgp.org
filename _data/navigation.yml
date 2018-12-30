@@ -6,7 +6,7 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "Community/Companies"
+  - title: "Community/Consulting"
     url: /community/
 
 # about
@@ -35,7 +35,7 @@ software:
 
 # community
 community:
-  - title: "Community/Companies"
+  - title: "Community/Consulting"
     children:
-      - title: "Community/Companies"
+      - title: "Community/Consulting"
         url: /community/

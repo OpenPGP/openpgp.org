@@ -1,14 +1,14 @@
 ---
-title: "Community/Companies"
+title: "Community/Consulting"
 permalink: /community/
-excerpt: "Community/Companies"
+excerpt: "Community/Consulting"
 modified: 2018-08-9T15:00:00-00:00
 ---
 
 {% include base_path %}
 
-## Mailing Lists
-The following are OpenPGP related mailing lists without connection to specific projects:
+## Community
+The following mailing lists are related to OpenPGP without connection to specific projects:
 
   * [IETF OpenPGP Working Group](https://www.ietf.org/mailman/listinfo/openpgp)
   * [ModernCrypto Messaging](https://moderncrypto.org/mailman/listinfo/messaging)
