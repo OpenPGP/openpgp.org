@@ -52,6 +52,28 @@ No security audits have been done by us and, thus, we cannot provide any securit
 A lot of webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
 The Mailvelope website provides a list of [supported webmail providers](https://www.mailvelope.com/en/faq#mailer_list).
 
+Providers with help pages:
+
+* [GMX](https://hilfe.gmx.net/sicherheit/pgp/mailvelope-installieren.html)
+* [Posteo](https://posteo.de/hilfe/wie-installiere-ich-eine-ende-zu-ende-verschluesselung-pgp-im-browser)
+* [WEB.DE](https://hilfe.web.de/sicherheit/pgp/index.html)
+
+Pre-configured (authorized) providers:
+
+* [Gmail](https://mail.google.com/)
+* [mail.ru](https://mail.ru/)
+* [Outlook.com](https://outlook.live.com/owa/)
+* [volny.cz](https://volny.cz/)
+* [Yahoo](https://login.yahoo.com/)
+* [Zoho Mail](https://www.zoho.eu/mail/)
+
+Other authorized providers with API support:
+
+* [mailbox.org](https://mailbox.org/)
+* [riseup.net](https://mail.riseup.net/)
+* [Roundcube](https://roundcube.net/)
+
+
 ## Webmail Provider with In-Browser Cryptography
 In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
 While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider these "end-to-end secure"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
