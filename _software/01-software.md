@@ -49,12 +49,8 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Psono](/software/psono/)
 
 ## Webmail Provider with Browser Plugins
-The following webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
-
-* [GMX](http://www.gmx.net/)
-* [mailbox.org](https://mailbox.org/)
-* [Posteo](https://posteo.de)
-* [WEB.DE](http://web.de/)
+A lot of webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
+The Mailvelope website provides a list of [supported webmail providers](https://www.mailvelope.com/en/faq#mailer_list).
 
 ## Webmail Provider with In-Browser Cryptography
 In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
