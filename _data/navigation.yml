@@ -32,6 +32,8 @@ software:
         url: /software/server/
       - title: "Developer Libraries/Tools"
         url: /software/developer/
+      - title: "Misc Tools"
+        url: /software/misc/
 
 # community
 community:
