@@ -81,6 +81,7 @@ While these are easier to set up and provide basic security guarantees with Open
 * [Hushmail](https://www.hushmail.com/) (limited OpenPGP support)
 * [Mailfence](https://www.mailfence.com/)
 * [ProtonMail](https://protonmail.com/)
+* [Pipefile](https://pipefile.com/)
 
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
