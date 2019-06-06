@@ -33,6 +33,12 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Sequoia PGP](https://sequoia-pgp.org/) (Rust)
 * [Swift-PGP](https://github.com/kryptco/swift-pgp/) (Swift)
 
+## Libraries Supporting OpenPGP Smartcards
+* [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
+  with Python and Lisp bindings)
+* [Hardware Security SDK](https://hwsecurity.dev) (Java)
+* [OpenSC](https://github.com/OpenSC/OpenSC/wiki/OpenPGP-card) (C)
+
 ## Developer Tools
 * [Debian Package Signing with GnuPG](https://wiki.debian.org/SecureApt)
 * [Distributed Key Generation and Threshold Cryptography for OpenPGP](http://www.nongnu.org/dkgpg/)
