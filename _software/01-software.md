@@ -16,6 +16,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Windows
 * [eM Client](/software/emclient/)
 * [EverDesk](/software/everdesk/)
+* [The Bat!](/software/thebat/)
 * Outlook:
   * [gpg4o](/software/gpg4o/)
   * [Gpg4win](/software/gpg4win/)
