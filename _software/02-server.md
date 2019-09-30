@@ -27,6 +27,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Nyms](http://nyms.io)
 * [SKS Keyserver](https://sks-keyservers.net) (in OCaml)
 * [Hockeypuck Keyserver](https://hockeypuck.github.io/) (in Go)
+* [OpenPGP Keyserver](https://keys.openpgp.org) (in Rust)
 
 ## Mailing List Software
 
