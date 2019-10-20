@@ -5,7 +5,7 @@ excerpt: "Email Encryption"
 modified: 2019-10-25T15:00:00-00:00
 ---
 
-Autocrypt is an Add-On for Mozilla Thunderbird. It implements OpenPGP on a very user friendly way. Following the concepts of Autocrypt the user experience a full automated OpenPGP experience.
+Autocrypt is an Add-On for Mozilla Thunderbird. It implements OpenPGP in a very user friendly manner. Following the concepts of Autocrypt the user experience a full automated OpenPGP experience.
 
 
 ### Key Facts
