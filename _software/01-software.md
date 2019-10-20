@@ -21,13 +21,17 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [gpg4o](/software/gpg4o/)
   * [Gpg4win](/software/gpg4win/)
   * [p≡p](/software/pep/)
-* [Thunderbird: Enigmail](/software/enigmail/)
+* Thunderbird:
+  * [Autocrypt](/software/autocrypt/)
+  * [Enigmail](/software/enigmail/)
 
 ## Mac OS
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
-* [Thunderbird: Enigmail](/software/enigmail/)
+* Thunderbird:
+  * [Autocrypt](/software/autocrypt/)
+  * [Enigmail](/software/enigmail/)
 
 ## Android
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
