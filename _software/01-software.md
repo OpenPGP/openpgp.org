@@ -46,7 +46,9 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
-* [Thunderbird: Enigmail](/software/enigmail/)
+* Thunderbird:
+  * [Autocrypt](/software/autocrypt/)
+  * [Enigmail](/software/enigmail/)
 
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
