@@ -41,6 +41,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## iOS
 * [Canary Mail](/software/canary-mail/)
 * [iPGMail](/software/ipgmail/)
+* [CryptMail](/software/cryptmail/)
 
 ## Linux
 * [Evolution: Seahorse](/software/seahorse/)
