@@ -37,6 +37,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [p≡p](/software/pep/)
 * [R2Mail2](/software/r2mail2/)
+* [FairEmail](/software/fairemail/)
 
 ## iOS
 * [Canary Mail](/software/canary-mail/)
