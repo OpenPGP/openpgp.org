@@ -5,8 +5,7 @@ excerpt: "Email app for Android"
 modified: 2019-11-22T12:00:00-00:00
 ---
 
-Fully featured, open source, privacy oriented email app for Android.
-
+Fully featured, open source, privacy friendly email app for Android. Uses OpenKeychain to decrypt messages and optionally encrypt messages.
 
 ### Key Facts
 
