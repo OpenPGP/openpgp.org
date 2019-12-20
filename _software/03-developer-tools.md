@@ -19,6 +19,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Golang OpenPGP](https://godoc.org/golang.org/x/crypto/openpgp) (Go)
 * [Haskell OpenPGP](https://hackage.haskell.org/package/openpgp) (Haskell)
 * [hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) (Haskell)
+* [IPWorks OpenPGP](https://www.nsoftware.com/ipworks/pgp/) (.NET, Java, C++, Python, Delphi, PHP, Node.js, Android, iOS)
 * [kbpgp](https://github.com/keybase/kbpgp/) (JavaScript)
 * [NeoPG](https://neopg.io/) (C++, GnuPG fork as a library)
 * [NetPGP](http://www.netpgp.com/) (C, with Python, Perl and Lua bindings)
