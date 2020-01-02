@@ -15,6 +15,9 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Pipefile](https://pipefile.com) (Secure File Sharing)
 * [Cryptonomica](https://cryptonomica.net/#!/openPGPOnline) (Identity Verification)
 
+## Aps
+* [Pignus](https://www.frobese.de/pignus) (iOS)
+
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
 Please note that we only include published, working software, which implements the standard.
