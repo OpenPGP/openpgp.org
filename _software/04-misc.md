@@ -15,7 +15,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Pipefile](https://pipefile.com) (Secure File Sharing)
 * [Cryptonomica](https://cryptonomica.net/#!/openPGPOnline) (Identity Verification)
 
-## Aps
+## Apps
 * [Pignus](https://www.frobese.de/pignus) (iOS)
 
 ## Project Missing?
