@@ -14,6 +14,7 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Windows
+* [Claws Mail](/software/claws/)
 * [eM Client](/software/emclient/)
 * [EverDesk](/software/everdesk/)
 * [The Bat!](/software/thebat/)
@@ -44,6 +45,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [iPGMail](/software/ipgmail/)
 
 ## Linux
+* [Claws Mail](/software/claws/)
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
