@@ -2,7 +2,7 @@
 title: "Email Encryption"
 permalink: /software/
 excerpt: "Email Encryption"
-modified: 2018-02-08T09:00:00-00:00
+modified: 2020-04-17T21:40:00-00:00
 ---
 
 {% include base_path %}
@@ -22,6 +22,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [gpg4o](/software/gpg4o/)
   * [Gpg4win](/software/gpg4win/)
   * [p≡p](/software/pep/)
+* [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
 * Thunderbird:
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)
@@ -30,6 +31,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
+* [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
 * Thunderbird:
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)

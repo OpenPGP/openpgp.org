@@ -2,10 +2,10 @@
 title: "Enigmail"
 permalink: /software/enigmail/
 excerpt: "Email Encryption"
-modified: 2016-10-25T15:00:00-00:00
+modified: 2020-04-17T21:40:00-00:00
 ---
 
-Enigmail is an Add-On for Mozilla Thunderbird. With GnuPG, it implements the OpenPGP standard. The product enables email encryption and signing directly into Thunderbird. The focus is on an easy interface for email security. 
+Enigmail is an Add-On for Postbox and Mozilla Thunderbird. With GnuPG, it implements the OpenPGP standard. The product enables email encryption and signing directly into Postbox and Thunderbird. The focus is on an easy interface for email security. 
 
 
 ### Key Facts
