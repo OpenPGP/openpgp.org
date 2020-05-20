@@ -43,9 +43,9 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [R2Mail2](/software/r2mail2/)
 
 ## iOS
-* [Safe Easy Privacy](/software/safe/)
 * [Canary Mail](/software/canary-mail/)
 * [iPGMail](/software/ipgmail/)
+* [Safe Easy Privacy](/software/safe/)
 
 ## Linux
 * [Claws Mail](/software/claws/)
