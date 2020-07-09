@@ -5,7 +5,7 @@ excerpt: "Email Encryption"
 modified: 2016-10-25T15:00:00-00:00
 ---
 
-Kleopatra is a certificate manager and GUI for GnuPG. The software stores your OpenPGP certificates and keys. It is available for Windows and Linux. In association with the [KMail]( https://www.kde.org/applications/internet/kmail/) email client, you can also take advantages of the cryptographical features for your communication via email.
+Kleopatra is a certificate manager and GUI for GnuPG. The software stores your OpenPGP certificates and keys. It is available for Windows and Linux. In association with the [KMail]( https://www.kde.org/applications/internet/kmail2/) email client, you can also take advantages of the cryptographical features for your communication via email.
 
 ### Key Facts
 
