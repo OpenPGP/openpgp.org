@@ -17,6 +17,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Apps
 * [Pignus](https://www.frobese.de/pignus) (iOS)
+* [neutriNote](https://play.google.com/store/apps/details?id=com.appmindlab.nano) (Android)
 
 ## Project Missing?
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
