@@ -2,7 +2,7 @@
 title: "Email Encryption"
 permalink: /software/
 excerpt: "Email Encryption"
-modified: 2020-04-17T21:40:00-00:00
+modified: 2020-09-28T15:00:00-00:00
 ---
 
 {% include base_path %}
@@ -45,6 +45,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## iOS
 * [Canary Mail](/software/canary-mail/)
 * [iPGMail](/software/ipgmail/)
+* [PGPro](/software/pgpro/)
 * [Safe Easy Privacy](/software/safe/)
 
 ## Linux
