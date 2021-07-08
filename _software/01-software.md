@@ -23,7 +23,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Gpg4win](/software/gpg4win/)
   * [p≡p](/software/pep/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
-* Thunderbird:
+* [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)
 
@@ -32,7 +32,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
-* Thunderbird:
+* [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)
 
@@ -53,7 +53,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
-* Thunderbird:
+* [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)
 
