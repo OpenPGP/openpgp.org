@@ -12,5 +12,6 @@ The Email Client Mozilla Thunderbird supports OpenPGP directly since version 78.
 
 * Developer/Publisher: [Mozilla](https://foundation.mozilla.org/)
 * License: Open Source (MPL)
-* Price: Free.
+* Price: Free ([Donations](https://give.thunderbird.net))
 * Web: [Get Thunderbird](https://www.thunderbird.net/)
+* FAQ: [OpenPGP in Thunderbird - HOWTO and FAQ](https://support.mozilla.org/en-US/kb/openpgp-thunderbird-howto-and-faq)
