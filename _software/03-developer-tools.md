@@ -29,6 +29,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [OpenKeychain API](https://github.com/open-keychain/openpgp-api) (Java)
 * [OpenPGP-PHP](https://github.com/singpolyma/openpgp-php) (PHP)
 * [OpenPGP.js](https://openpgpjs.org/) (Javascript)
+* [PGPainless](https://pgpainless.org) (Java)
 * [PGPy](https://github.com/SecurityInnovation/PGPy/) (Python)
 * [RNP](https://www.rnpgp.com/) (C++)
 * [Sequoia PGP](https://sequoia-pgp.org/) (Rust)
