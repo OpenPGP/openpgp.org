@@ -23,18 +23,18 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Gpg4win](/software/gpg4win/)
   * [p≡p](/software/pep/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
-* Thunderbird:
-  * [Autocrypt](/software/autocrypt/)
-  * [Enigmail](/software/enigmail/)
+* [Thunderbird](/software/thunderbird):
+  * [Autocrypt](/software/autocrypt/) for versions <78
+  * [Enigmail](/software/enigmail/) for versions <78
 
 ## Mac OS
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
-* Thunderbird:
-  * [Autocrypt](/software/autocrypt/)
-  * [Enigmail](/software/enigmail/)
+* [Thunderbird](/software/thunderbird):
+  * [Autocrypt](/software/autocrypt/) for versions <78
+  * [Enigmail](/software/enigmail/) for versions <78
 
 ## Android
 * [FairEmail](/software/fairemail/)
@@ -53,9 +53,9 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
-* Thunderbird:
-  * [Autocrypt](/software/autocrypt/)
-  * [Enigmail](/software/enigmail/)
+* [Thunderbird](/software/thunderbird):
+  * [Autocrypt](/software/autocrypt/) for versions <78
+  * [Enigmail](/software/enigmail/) for versions <78
 
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
