@@ -11,9 +11,6 @@ All applications on this page implement the OpenPGP standard.
 The authors of this webpage are not actively participating in the development of each of these third-party apps.
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
-## PC Applications
-* [GpgFrontend](/software/misc/gpgfrontend/) (Windows, macOS, Linux)
-
 ## Web-Based Tools
 * [Pipefile](https://pipefile.com) (Secure File Sharing)
 * [Cryptonomica](https://cryptonomica.net/#!/openPGPOnline) (Identity Verification)

@@ -17,6 +17,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Claws Mail](/software/claws/)
 * [eM Client](/software/emclient/)
 * [EverDesk](/software/everdesk/)
+* [GpgFrontend](/software/gpgfrontend/)
 * [The Bat!](/software/thebat/)
 * Outlook:
   * [gpg4o](/software/gpg4o/)
@@ -30,6 +31,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Mac OS
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
+* [GpgFrontend](/software/gpgfrontend/)
 * [Mutt](/software/mutt/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
 * Thunderbird:
@@ -51,6 +53,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Linux
 * [Claws Mail](/software/claws/)
 * [Evolution: Seahorse](/software/seahorse/)
+* [GpgFrontend](/software/gpgfrontend/)
 * [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
 * Thunderbird:
