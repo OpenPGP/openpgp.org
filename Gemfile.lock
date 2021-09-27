@@ -94,20 +94,19 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
-    mini_portile2 (2.1.0)
+    mini_portile2 (2.6.1)
     minitest (5.9.0)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.6.8)
-      mini_portile2 (~> 2.1.0)
-      pkg-config (~> 1.1.7)
-    nokogiri (1.6.8-x64-mingw32)
-      mini_portile2 (~> 2.1.0)
-      pkg-config (~> 1.1.7)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+      racc (~> 1.4)
+    nokogiri (1.12.5-x64-mingw32)
+      racc (~> 1.4)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
-    pkg-config (1.1.7)
     public_suffix (1.5.3)
+    racc (1.5.2)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -123,7 +122,6 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -131,7 +129,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.12.5
