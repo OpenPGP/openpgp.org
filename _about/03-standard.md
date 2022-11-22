@@ -2,7 +2,7 @@
 title: "Standard"
 permalink: /about/standard/
 excerpt: "OpenPGP Standard"
-modified: 2016-08-15T15:00:00-00:00
+modified: 2022-11-22T11:30:00-00:00
 ---
 
 {% include base_path %}
@@ -20,6 +20,7 @@ Besides the message format specified in RFC 4880, a collection of other OpenPGP-
 * [RFC 6637: Elliptic Curve Cryptography (ECC) in OpenPGP](https://tools.ietf.org/html/rfc6637)
 * [RFC 6091: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://tools.ietf.org/html/rfc6091)
 * [RFC 5581: The Camellia Cipher in OpenPGP](https://tools.ietf.org/html/rfc5581)
+* [RFC 7929: DNS-Based Authentication of Named Entities (DANE) Bindings for OpenPGP](https://tools.ietf.org/html/rfc7929)
 
 ### XMPP Integration
 * [XEP-0027 (obsolete)](https://www.xmpp.org/extensions/xep-0027.html)
@@ -27,16 +28,21 @@ Besides the message format specified in RFC 4880, a collection of other OpenPGP-
 * [XEP-0374: OpenPGP for XMPP Instant Messaging](https://www.xmpp.org/extensions/xep-0374.html)
 
 ### Current Internet Drafts
+* [OpenPGP Message Format](https://datatracker.ietf.org/doc/draft-ietf-openpgp-crypto-refresh/) a.k.a. RFC4880-bis
+* [OpenPGP Web Key Directory](https://datatracker.ietf.org/doc/draft-koch-openpgp-webkey-service/)
+* [Shared OpenPGP Certificate Directory](https://datatracker.ietf.org/doc/draft-nwjw-openpgp-cert-d/)
+
+### Obsoleted/Expired Internet Drafts
+* [Abuse-Resistant OpenPGP Keystores](https://datatracker.ietf.org/doc/html/draft-dkg-openpgp-abuse-resistant-keystore)
 * [The OpenPGP HTTP Keyserver Protocol (HKP)](https://tools.ietf.org/html/draft-shaw-openpgp-hkp-00)
-* [Using DANE to Associate OpenPGP public keys with email addresses](https://tools.ietf.org/html/draft-ietf-dane-openpgpkey-00)
-* [Best Common Practise for using OPENPGPKEY records](https://tools.ietf.org/html/draft-ietf-dane-openpgpkey-usage-00)
+* [Best Common Practise for using OPENPGPKEY records](https://tools.ietf.org/html/draft-ietf-dane-openpgpkey-usage-01)
 * [Media type literal packet in OpenPGP](https://tools.ietf.org/html/draft-moscaritolo-openpgp-literal-01)
 * [EdDSA for OpenPGP](https://tools.ietf.org/html/draft-koch-eddsa-for-openpgp-04)
-* [Linked Identites for OpenPGP](https://tools.ietf.org/html/draft-vb-openpgp-linked-ids-00)
-* [URI Attributes for OpenPGP](https://tools.ietf.org/html/draft-vb-openpgp-uri-attribute-00)
+* [Linked Identites for OpenPGP](https://tools.ietf.org/html/draft-vb-openpgp-linked-ids-01)
+* [URI Attributes for OpenPGP](https://tools.ietf.org/html/draft-vb-openpgp-uri-attribute-01)
 * [Modernizing the OpenPGP Message Format](https://tools.ietf.org/html/draft-ford-openpgp-format-00)
 * [Forward Secrecy Extensions for OpenPGP](https://tools.ietf.org/html/draft-brown-pgp-pfs-03)
-* [OpenPGP Extensions for Device Certificates](https://tools.ietf.org/html/draft-atkins-openpgp-device-certificates-03)
+* [OpenPGP Extensions for Device Certificates](https://tools.ietf.org/html/draft-atkins-openpgp-device-certificates-04)
 * [The OpenPGP Message Format](https://tools.ietf.org/html/draft-bray-pgp-message-00)
 * [The "OpenPGP" mail and news header field](https://tools.ietf.org/html/draft-josefsson-openpgp-mailnews-header-07)
 
