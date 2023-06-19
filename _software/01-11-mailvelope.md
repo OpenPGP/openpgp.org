@@ -16,3 +16,4 @@ Mailvelope is a browser extension for Google Chrome and Firefox that allows secu
 * Help: Help is provided by the CEO
 	* [Email](mailto:info@mailvelope.com)
 	* [FAQ](https://www.mailvelope.com/faq)
+	

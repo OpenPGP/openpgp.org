@@ -7,7 +7,6 @@ modified: 2021-07-08T12:00:00-00:00
 
 The Email Client Mozilla Thunderbird supports OpenPGP directly since version 78.
 
-
 ### Key Facts
 
 * Developer/Publisher: [Mozilla](https://foundation.mozilla.org/)
