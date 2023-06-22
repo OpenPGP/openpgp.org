@@ -60,8 +60,8 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Enigmail](/software/enigmail/) for versions <78
 
 ## Browser Plugins
-* [Mailvelope](/software/mailvelope/)
 * [FlowCrypt (Gmail)](/software/flowcrypt/)
+* [Mailvelope](/software/mailvelope/)
 * [Psono](/software/psono/)
 
 ## Webmail Provider with Browser Plugins
