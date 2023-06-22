@@ -38,14 +38,14 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Android
 * [FairEmail](/software/fairemail/)
-* [FlowCrypt](/software/flowcrypt)
+* [FlowCrypt](/software/flowcrypt/)
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [p≡p](/software/pep/)
 * [R2Mail2](/software/r2mail2/)
 
 ## iOS
 * [Canary Mail](/software/canary-mail/)
-* [FlowCrypt](/software/flowcrypt)
+* [FlowCrypt](/software/flowcrypt/)
 * [iPGMail](/software/ipgmail/)
 * [PGPro](/software/pgpro/)
 * [Safe Easy Privacy](/software/safe/)
@@ -61,7 +61,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## Browser Plugins
 * [Mailvelope](/software/mailvelope/)
-* [FlowCrypt (Gmail)](/software/flowcrypt)
+* [FlowCrypt (Gmail)](/software/flowcrypt/)
 * [Psono](/software/psono/)
 
 ## Webmail Provider with Browser Plugins
