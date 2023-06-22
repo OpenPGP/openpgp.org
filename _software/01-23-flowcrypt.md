@@ -2,7 +2,7 @@
 title: "FlowCrypt"
 permalink: /software/flowcrypt/
 excerpt: "Email Encryption"
-modified: 2023-06-22T23:05:00-00:00
+modified: 2023-06-22T23:45:00-00:00
 --- 
 
 🛡️ FlowCrypt offers different simple and convenient email encryption solutions. We provide end-to-end asymmetric encryption, ensuring that only the intended recipients can read the encrypted content. This means that even if intercepted during transmission or stored on email servers, your messages remain secure and unreadable to anyone without the corresponding private key. Our products include:
