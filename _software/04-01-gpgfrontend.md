@@ -22,9 +22,10 @@ Features:
 * Developer/Publisher: [Saturneric](https://bktus.com/)
 * License: Open Source (GNU GPL-3.0)
 * Price: Free.
-* Web: 
+* Web:
   * [GitHub Page](https://saturneric.github.io/GpgFrontend/index.html#/)
   * [GitHub Repository](https://github.com/saturneric/GpgFrontend)
 * Help: Help is provided in the README.md and by the developer via email
 	* [README.md](https://github.com/saturneric/GpgFrontend/blob/main/README.md)
 	* [Email](mailto:eric@bktus.com)
+  

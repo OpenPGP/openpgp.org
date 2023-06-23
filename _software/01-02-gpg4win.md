@@ -16,3 +16,4 @@ Gpg4win initiative does not only offer email encryption but a whole suite of too
 * Help: Help is given through the communities
 	* [Support](https://www.gpg4win.de/community.html)
 	* [Forum](http://wald.intevation.org/forum/forum.php?forum_id=21)
+	
