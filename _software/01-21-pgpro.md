@@ -6,7 +6,7 @@ modified: 2020-09-28T15:00:00-00:00
 ---
 
 PGPro can encrypt and decrypt messages as well as manage your PGP keys.
-It is free, simple and lightweight. Everything stays on your device. 
+It is free, simple and lightweight. Everything stays on your device.
 PGPro is open-source and made in Switzerland 🇨🇭
 
 You can

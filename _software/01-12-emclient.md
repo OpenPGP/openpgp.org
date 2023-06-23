@@ -19,3 +19,4 @@ eM Client is a versatile email client with calendar, tasks and chat. It supports
 	* [Forum](https://forum.emclient.com/emclient) for Free license users
 	* [Pro support](https://support.emclient.com/) for commercial license users
 	* [FAQ](https://www.emclient.com/faq-getting-started)
+	
