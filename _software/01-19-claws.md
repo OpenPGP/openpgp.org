@@ -7,7 +7,6 @@ modified: 2020-03-07T23:05:00-00:00
 
 Claws Mail is a lightweight and fast email client based on GTK+ for Linux and Windows. It contains a plugin to enable email signing and encryption using GnuPG / gpgme, implementing the OpenPGP standard.
 
-
 ### Key Facts
 
 * Developer/Publisher: [Team](https://claws-mail.org/theteam.php) of dedicated developers, translators and contributors

@@ -14,6 +14,7 @@ The authors of this webpage are not actively participating in the development of
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
 
 ## Windows
+
 * [Claws Mail](/software/claws/)
 * [eM Client](/software/emclient/)
 * [EverDesk](/software/everdesk/)
@@ -28,6 +29,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Enigmail](/software/enigmail/) for versions <78
 
 ## Mac OS
+
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
@@ -37,6 +39,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Enigmail](/software/enigmail/) for versions <78
 
 ## Android
+
 * [FairEmail](/software/fairemail/)
 * [FlowCrypt](/software/flowcrypt/)
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
@@ -44,6 +47,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [R2Mail2](/software/r2mail2/)
 
 ## iOS
+
 * [Canary Mail](/software/canary-mail/)
 * [FlowCrypt](/software/flowcrypt/)
 * [iPGMail](/software/ipgmail/)
@@ -51,6 +55,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Safe Easy Privacy](/software/safe/)
 
 ## Linux
+
 * [Claws Mail](/software/claws/)
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
@@ -60,11 +65,13 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Enigmail](/software/enigmail/) for versions <78
 
 ## Browser Plugins
+
 * [FlowCrypt (Gmail)](/software/flowcrypt/)
 * [Mailvelope](/software/mailvelope/)
 * [Psono](/software/psono/)
 
 ## Webmail Provider with Browser Plugins
+
 A lot of webmail providers support email encryption via the OpenPGP standard using [Mailvelope](/software/mailvelope/).
 The Mailvelope website provides a list of [supported webmail providers](https://www.mailvelope.com/en/faq#mailer_list).
 
@@ -89,8 +96,8 @@ Other authorized providers with API support:
 * [riseup.net](https://mail.riseup.net/)
 * [Roundcube](https://roundcube.net/)
 
-
 ## Webmail Provider with In-Browser Cryptography
+
 In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
 While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider these "end-to-end secure"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
 
@@ -100,6 +107,7 @@ While these are easier to set up and provide basic security guarantees with Open
 * [ProtonMail](https://protonmail.com/)
 
 ## Project Missing?
+
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
 Please note that we only include published, working software, which implements the standard.
 The software is ordered alphabetically within the sections.
