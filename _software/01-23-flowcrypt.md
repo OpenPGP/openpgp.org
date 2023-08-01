@@ -38,9 +38,9 @@ You can:
 ## Key Facts
 
 * Developer/Publisher: FlowCrypt a.s.
-* Programming language: Browser extension/TypeScript, iOS app/Swift, Android app and Enterprise solutions/Kotlin
-* License: Proprietary software with publicly available source code
-* Encryption Library: OpenPGP (Open-Source)
+* Programming language: Browser extension/TypeScript, iOS app/Swift, Android app and Enterprise solutions/Kotlin.
+* License: Proprietary software with publicly available source code.
+* Encryption Library: Browser Extension and iOS app/[OpenPGP.js](https://github.com/openpgpjs/openpgpjs), Android app/[PGPainless](https://github.com/pgpainless/pgpainless), Enterprise solutions/[OpenPGP.js](https://github.com/openpgpjs/openpgpjs) and [PGPainless](https://github.com/pgpainless/pgpainless).
 * Price:
     * Free: Browser extension, mobile apps, and Enterprise Server/Shared-Tenant Server for up to 100 emails per domain.
     * [Paid](https://flowcrypt.com/docs/business/enterprise.html): Enterprise Server/Shared-Tenant Server for more than 100 emails per domain.
