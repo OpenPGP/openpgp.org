@@ -21,6 +21,8 @@ about:
     children:
       - title: "Standard"
         url: /about/standard/
+      - title: "Documentation"
+        url: /about/documentation/
 
 # software
 software:
