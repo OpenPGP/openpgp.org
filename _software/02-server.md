@@ -19,6 +19,10 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Pixelated](https://pixelated-project.org)
 * [Roundcube](https://roundcube.net/)
 
+## Encryption at Rest with OpenPGP
+
+* [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) (in Rust) ([documentation](https://stalw.art/docs/storage/encryption/pgp))
+
 ## Keyservers
 
 * [FlowCrypt Attester](https://flowcrypt.com/attester/)
@@ -29,6 +33,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   the [LEAP](https://leap.se/) project
 * [Nyms](http://nyms.io)
 * [SKS Keyserver](https://sks-keyservers.net) (in OCaml)
+
 
 ## Mailing List Software
 
