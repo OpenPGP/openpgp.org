@@ -38,6 +38,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Password Managers
 
 * [Passbolt](https://www.passbolt.com/)
+* [sp](https://gitler.moe/suwako/sp)
 
 ## Project Missing?
 
