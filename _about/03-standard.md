@@ -31,6 +31,7 @@ Besides the message format specified in RFC 4880, a collection of other OpenPGP-
 * [OpenPGP Message Format](https://datatracker.ietf.org/doc/draft-ietf-openpgp-crypto-refresh/) a.k.a. RFC4880-bis
 * [OpenPGP Web Key Directory](https://datatracker.ietf.org/doc/draft-koch-openpgp-webkey-service/)
 * [Shared OpenPGP Certificate Directory](https://datatracker.ietf.org/doc/draft-nwjw-openpgp-cert-d/)
+* [Stateless OpenPGP Command Line Interface](https://datatracker.ietf.org/doc/draft-dkg-openpgp-stateless-cli/)
 
 ### Obsoleted/Expired Internet Drafts
 * [Abuse-Resistant OpenPGP Keystores](https://datatracker.ietf.org/doc/html/draft-dkg-openpgp-abuse-resistant-keystore)
