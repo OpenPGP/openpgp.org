@@ -22,7 +22,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * Outlook:
   * [gpg4o](/software/gpg4o/)
   * [Gpg4win](/software/gpg4win/)
-  * [p≡p](/software/pep/)
+  * [Planck](/software/planck/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
@@ -43,7 +43,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [FairEmail](/software/fairemail/)
 * [FlowCrypt](/software/flowcrypt/)
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
-* [p≡p](/software/pep/)
+* [Planck](/software/planck/)
 * [R2Mail2](/software/r2mail2/)
 
 ## iOS
@@ -52,6 +52,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [FlowCrypt](/software/flowcrypt/)
 * [iPGMail](/software/ipgmail/)
 * [PGPro](/software/pgpro/)
+* [Planck](/software/planck/)
 * [Safe Easy Privacy](/software/safe/)
 
 ## Linux
