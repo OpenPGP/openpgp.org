@@ -28,7 +28,7 @@ You can:
 
 * Send encrypted emails to both FlowCrypt and other OpenPGP-compatible software as well as receive from both Flowcrypt and other OpenPGP-compatible software users.
 * Send encrypted attachments up to **25MB**, with previewing functionality for a bunch of types, such as PNG, JPG, GIF, PDF, and other popular file formats.
-* Use FlowCrypt's own Attester [public key server](https://flowcrypt.com/docs/consumer-and-small-business/attester/overview.htmll). You can learn about the advantages of this solution in the [Attester Overview](http://flowcrypt.com/docs/consumer-and-small-business/attester/overview.html#enterprises) guide.
+* Use FlowCrypt's own Attester [public key server](https://flowcrypt.com/docs/consumer-and-small-business/attester/overview.html). You can learn about the advantages of this solution in the [Attester Overview](http://flowcrypt.com/docs/consumer-and-small-business/attester/overview.html#enterprises) guide.
 * Share public keys via FlowCrypt Attester. [A demo for flowcrypt.docs@gmail.com](https://flowcrypt.com/pub/flowcrypt.docs@gmail.com).
 * Generate private keys using the **ECC** and **RSA** (up to 4096-bit) algorithms.
 * Sign encrypted emails to let your recipients verify that the message is from you and that the content hasn't been modified. Sign-only key support is available for the browser extension.
