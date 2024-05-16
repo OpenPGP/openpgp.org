@@ -13,14 +13,14 @@ modified: 2023-06-22T23:45:00-00:00
 * [Android App](https://play.google.com/store/apps/details?id=com.flowcrypt.email)
 * [iOS App](https://apps.apple.com/us/app/flowcrypt-encrypted-email/id1591754995)
 
-💼 We also offer [Enterprise](https://flowcrypt.com/docs/technical/enterprise-server/latest/enterprise-server.html) solutions for key and user management:
+💼 We also offer [Enterprise](https://flowcrypt.com/docs/technical/enterprise-server/latest/technical-overview.html) solutions for key and user management:
 
 * Self-hosted Enterprise Server, including a self-hosted WKD (Web Key Directory) server
 * Shared-Tenant Server
 
-For more detailed information concerning the differences between these two solutions, please refer to our [Choosing Between the Enterprise Server and Shared-Tenant Server](https://flowcrypt.com/docs/technical/specifications/enterprise-vs-shared-tenant.html) guide. To request FlowCrypt Enterprise solutions, please [fill in the form](https://mkfvqd0z9lh.typeform.com/to/JlxIU2eF).
+For more detailed information concerning the differences between these two solutions, please refer to our [Choosing Between the Enterprise Server and Shared-Tenant Server](https://flowcrypt.comdocs/consumer-and-small-business/specifications/enterprise-vs-shared-tenant.html) guide. To request FlowCrypt Enterprise solutions, please [fill in the form](https://mkfvqd0z9lh.typeform.com/to/JlxIU2eF).
 
-🔒 We at FlowCrypt believe in transparency and extensive collaboration as a foundation for robust and secure systems. We run a public [Bug Bounty Program](https://flowcrypt.com/docs/technical/bug-bounty.html) and you can also check the [list of vulnerabilities](https://flowcrypt.com/docs/technical/fixed-vulnerabilities.html) that have already been found and fixed. Our code is publicly available on [GitHub](https://github.com/FlowCrypt), so you can review it and even become a contributor.
+🔒 We at FlowCrypt believe in transparency and extensive collaboration as a foundation for robust and secure systems. We run a public [Bug Bounty Program](https://flowcrypt.com/docs/technical/security/bug-bounty.html) and you can also check the [list of vulnerabilities](https://flowcrypt.com/docs/technical/security/fixed-vulnerabilities.html) that have already been found and fixed. Our code is publicly available on [GitHub](https://github.com/FlowCrypt), so you can review it and even become a contributor.
 
 ➕ FlowCrypt offers a variety of features to enhance your encrypted email experience.
 
@@ -28,12 +28,12 @@ You can:
 
 * Send encrypted emails to both FlowCrypt and other OpenPGP-compatible software as well as receive from both Flowcrypt and other OpenPGP-compatible software users.
 * Send encrypted attachments up to **25MB**, with previewing functionality for a bunch of types, such as PNG, JPG, GIF, PDF, and other popular file formats.
-* Use FlowCrypt's own Attester [public key server](https://flowcrypt.com/docs/technical/attester.html). You can learn about the advantages of this solution in the [Attester Overview](http://flowcrypt.com/docs/technical/attester.html) guide.
+* Use FlowCrypt's own Attester [public key server](https://flowcrypt.com/docs/consumer-and-small-business/attester/overview.html). You can learn about the advantages of this solution in the [Attester Overview](http://flowcrypt.com/docs/consumer-and-small-business/attester/overview.html#enterprises) guide.
 * Share public keys via FlowCrypt Attester. [Demo for flowcrypt.docs@gmail.com](https://flowcrypt.com/pub/flowcrypt.docs@gmail.com).
 * Generate private keys using the **ECC** and **RSA** (up to 4096-bit) algorithms.
 * Sign encrypted emails to let your recipients verify that the message is from you and that the content hasn't been modified. Sign-only key support is available for the browser extension.
 * Compose password-protected emails to send encrypted emails to the recipient who doesn't have any OpenPGP software.
-* Use the [Encrypted Contact Page](https://flowcrypt.com/docs/guide/send-and-receive/encrypted-contact-page.html) to send OpenPGP encrypted emails without installing any OpenPGP software.
+* Use the [Encrypted Contact Page](https://flowcrypt.com/docs/getting-started/send-and-receive/encrypted-contact-page.html) to send OpenPGP-encrypted emails without installing any OpenPGP software.
 
 ## Key Facts
 
@@ -43,20 +43,20 @@ You can:
 * Encryption Library: OpenPGP (Open-Source)
 * Price:
     * Free: Browser extension, mobile apps, and Enterprise Server/Shared-Tenant Server for up to 100 emails per domain.
-    * [Paid](https://flowcrypt.com/docs/business/enterprise.html): Enterprise Server/Shared-Tenant Server for more than 100 emails per domain.
+    * [Paid](https://flowcrypt.com/docs/technical/enterprise/features-and-pricing.html): Enterprise Server/Shared-Tenant Server for more than 100 emails per domain.
 * Web:
     * [Website](https://flowcrypt.com)
     * [FlowCrypt Downloads](https://flowcrypt.com/download)
     * [Blog](https://flowcrypt.com/blog/)
     * [Twitter](https://twitter.com/FlowCrypt)
 * Help:
-    * [User Manual](https://flowcrypt.com/docs/guide/overview.html)
+    * [User Manual](https://flowcrypt.com/docs/)
     * [FAQ](https://flowcrypt.com/docs/help/faq.html)
     * [RAQ](https://flowcrypt.com/docs/help/raq.html)
     * [FlowCrypt Knowledge Base](https://flowcrypt.com/blog/questions/)
     * [Privacy Policy](https://flowcrypt.com/privacy)
     * [Feature Availability](https://flowcrypt.com/docs/technical/feature-availability.html)
-    * [Specification](https://flowcrypt.com/docs/technical/specifications/software-specifications.html)
+    * [Specification](https://flowcrypt.com/docs/consumer-and-small-business/specifications/software-specifications.html)
 * GitHub Repos:
     * [Browser extension for Gmail](https://github.com/FlowCrypt/flowcrypt-browser)
     * [Android App](https://github.com/FlowCrypt/flowcrypt-android)
