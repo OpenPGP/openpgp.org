@@ -18,7 +18,7 @@ modified: 2023-06-22T23:45:00-00:00
 * Self-hosted Enterprise Server, including a self-hosted WKD (Web Key Directory) server
 * Shared-Tenant Server
 
-For more detailed information concerning the differences between these two solutions, please refer to our [Choosing Between the Enterprise Server and Shared-Tenant Server](https://flowcrypt.comdocs/consumer-and-small-business/specifications/enterprise-vs-shared-tenant.html) guide. To request FlowCrypt Enterprise solutions, please [fill in the form](https://mkfvqd0z9lh.typeform.com/to/JlxIU2eF).
+For more detailed information concerning the differences between these two solutions, please refer to our [Choosing Between the Enterprise Server and Shared-Tenant Server](https://flowcrypt.com/docs/consumer-and-small-business/specifications/enterprise-vs-shared-tenant.html) guide. To request FlowCrypt Enterprise solutions, please [fill in the form](https://mkfvqd0z9lh.typeform.com/to/JlxIU2eF).
 
 🔒 We at FlowCrypt believe in transparency and extensive collaboration as a foundation for robust and secure systems. We run a public [Bug Bounty Program](https://flowcrypt.com/docs/technical/security/bug-bounty.html) and you can also check the [list of vulnerabilities](https://flowcrypt.com/docs/technical/security/fixed-vulnerabilities.html) that have already been found and fixed. Our code is publicly available on [GitHub](https://github.com/FlowCrypt), so you can review it and even become a contributor.
 
