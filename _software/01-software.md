@@ -27,6 +27,8 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
+* [Delta Chat](/software/deltachat)
+
 
 ## Mac OS
 
@@ -37,6 +39,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
+* [Delta Chat](/software/deltachat)
 
 ## Android
 
@@ -45,6 +48,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [p≡p](/software/pep/)
 * [R2Mail2](/software/r2mail2/)
+* [Delta Chat](/software/deltachat)
 
 ## iOS
 
@@ -53,6 +57,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [iPGMail](/software/ipgmail/)
 * [PGPro](/software/pgpro/)
 * [Safe Easy Privacy](/software/safe/)
+* [Delta Chat](/software/deltachat)
 
 ## Linux
 
@@ -63,6 +68,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
+* [Delta Chat](/software/deltachat)
 
 ## Browser Plugins
 
