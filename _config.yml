@@ -113,6 +113,13 @@ include:
   - _pages
   - _headers
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -125,12 +132,10 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
-  - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - log
-  - node_modules
   - package.json
   - Rakefile
   - README
