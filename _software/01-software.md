@@ -2,7 +2,6 @@
 title: "Email Encryption"
 permalink: /software/
 excerpt: "Email Encryption"
-modified: 2021-06-20T02:44:00-00:00
 ---
 
 {% include base_path %}
@@ -16,59 +15,58 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Windows
 
 * [Claws Mail](/software/claws/)
+* [Delta Chat](/software/deltachat)
 * [eM Client](/software/emclient/)
 * [EverDesk](/software/everdesk/)
-* [The Bat!](/software/thebat/)
 * Outlook:
   * [gpg4o](/software/gpg4o/)
   * [Gpg4win](/software/gpg4win/)
   * [p≡p](/software/pep/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
+* [The Bat!](/software/thebat/)
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
-* [Delta Chat](/software/deltachat)
-
 
 ## Mac OS
 
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
+* [Delta Chat](/software/deltachat)
 * [Mutt](/software/mutt/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
-* [Delta Chat](/software/deltachat)
 
 ## Android
 
 * [FairEmail](/software/fairemail/)
+* [Delta Chat](/software/deltachat)
 * [FlowCrypt](/software/flowcrypt/)
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [p≡p](/software/pep/)
 * [R2Mail2](/software/r2mail2/)
-* [Delta Chat](/software/deltachat)
 
 ## iOS
 
 * [Canary Mail](/software/canary-mail/)
+* [Delta Chat](/software/deltachat)
 * [FlowCrypt](/software/flowcrypt/)
 * [iPGMail](/software/ipgmail/)
 * [PGPro](/software/pgpro/)
 * [Safe Easy Privacy](/software/safe/)
-* [Delta Chat](/software/deltachat)
 
 ## Linux
 
 * [Claws Mail](/software/claws/)
+* [Delta Chat](/software/deltachat)
 * [Evolution: Seahorse](/software/seahorse/)
 * [KMail: Kleopatra](/software/kleopatra/)
 * [Mutt](/software/mutt/)
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
-* [Delta Chat](/software/deltachat)
 
 ## Browser Plugins
 

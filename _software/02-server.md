@@ -2,7 +2,6 @@
 title: "Server"
 permalink: /software/server/
 excerpt: "Server software"
-modified: 2017-11-25T13:35:11-05:00
 ---
 
 {% include base_path %}
@@ -39,10 +38,6 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Mailman 3 PGP plugin](https://pypi.python.org/pypi/mailman-pgp)
 * [Schleuder encrypted mailinglist](https://schleuder.org/)
-
-## Password Managers
-
-* [Passbolt](https://www.passbolt.com/)
 
 ## Project Missing?
 

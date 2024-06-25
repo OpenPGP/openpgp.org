@@ -4,6 +4,15 @@ I encourage all visitors to participate in creating and improving content of thi
 
 We are open for pull requests!
 
+# Notes on editing the site
+
+## Modification timestamps
+
+If you edit any page that contains an explicit `modified` header,
+please remove it.  We are using
+[`jekyll-last-modified-at`](https://github.com/gjtorikian/jekyll-last-modified-at)
+which will use the modification time from git now.
+
 # How to build the site locally
 
 First, you'll need to install the Ruby dependencies.  Starting with

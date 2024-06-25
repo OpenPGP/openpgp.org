@@ -2,7 +2,6 @@
 title: "Developer Libraries/Tools"
 permalink: /software/developer/
 excerpt: "Developer Libraries/Tools"
-modified: 2018-12-22T00:32:11-00:00
 ---
 
 {% include base_path %}
@@ -35,6 +34,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [RNP](https://www.rnpgp.com/) (C++)
 * [Sequoia PGP](https://sequoia-pgp.org/) (Rust)
 * [Swift-PGP](https://github.com/kryptco/swift-pgp/) (Swift)
+* [TMCG / dkgpg](http://www.nongnu.org/dkgpg/) (C++)
 
 ## Libraries Supporting OpenPGP Smartcards
 
@@ -47,9 +47,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Developer Tools
 
 * [Debian Package Signing with GnuPG](https://wiki.debian.org/SecureApt)
-* [Distributed Key Generation and Threshold Cryptography for OpenPGP](http://www.nongnu.org/dkgpg/)
 * [Git Tools - Signing Your Work with GnuPG](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
-* [pass: the standard unix password manager](https://www.passwordstore.org/)
 
 ## Project Missing?
 

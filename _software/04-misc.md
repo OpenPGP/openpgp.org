@@ -2,7 +2,6 @@
 title: "Miscellaneous Tools"
 permalink: /software/misc/
 excerpt: "Miscellaneous Tools"
-modified: 2019-03-29T00:32:11-00:00
 ---
 
 {% include base_path %}
@@ -10,6 +9,11 @@ modified: 2019-03-29T00:32:11-00:00
 All applications on this page implement the OpenPGP standard.
 The authors of this webpage are not actively participating in the development of each of these third-party apps.
 No security audits have been done by us and, thus, we cannot provide any security guarantees.
+
+## Password Managers
+
+* [pass: the standard unix password manager](https://www.passwordstore.org/)
+* [Passbolt](https://www.passbolt.com/)
 
 ## PC Applications
 

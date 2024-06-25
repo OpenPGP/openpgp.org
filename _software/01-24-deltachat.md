@@ -2,7 +2,6 @@
 title: "Delta Chat"
 permalink: /software/deltachat/
 excerpt: "Email Encryption"
-modified: 2024-06-18:00:00-00:00
 --- 
 
 The Delta Chat e-mail based messenger supports OpenPGP-based encryption on all platforms,
