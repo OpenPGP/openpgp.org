@@ -41,5 +41,7 @@ software:
 community:
   - title: "Community/Consulting"
     children:
-      - title: "Community/Consulting"
+      - title: "Community"
         url: /community/
+      - title: "Consulting"
+        url: /community/consulting/
