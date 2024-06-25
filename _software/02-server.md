@@ -2,7 +2,6 @@
 title: "Server"
 permalink: /software/server/
 excerpt: "Server software"
-modified: 2017-11-25T13:35:11-05:00
 ---
 
 {% include base_path %}

@@ -2,7 +2,6 @@
 title: "Miscellaneous Tools"
 permalink: /software/misc/
 excerpt: "Miscellaneous Tools"
-modified: 2019-03-29T00:32:11-00:00
 ---
 
 {% include base_path %}

@@ -2,7 +2,6 @@
 title: "Developer Libraries/Tools"
 permalink: /software/developer/
 excerpt: "Developer Libraries/Tools"
-modified: 2018-12-22T00:32:11-00:00
 ---
 
 {% include base_path %}
