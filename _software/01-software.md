@@ -111,6 +111,7 @@ While these are easier to set up and provide basic security guarantees with Open
 * [Mailfence](https://www.mailfence.com/)
 * [postale.io](https://postale.io/)
 * [ProtonMail](https://protonmail.com/)
+* [mailbox.org](https://mailbox.org/)
 
 ## Project Missing?
 
