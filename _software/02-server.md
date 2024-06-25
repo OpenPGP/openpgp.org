@@ -40,10 +40,6 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Mailman 3 PGP plugin](https://pypi.python.org/pypi/mailman-pgp)
 * [Schleuder encrypted mailinglist](https://schleuder.org/)
 
-## Password Managers
-
-* [Passbolt](https://www.passbolt.com/)
-
 ## Project Missing?
 
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).

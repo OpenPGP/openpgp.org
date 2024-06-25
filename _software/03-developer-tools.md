@@ -49,7 +49,6 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Debian Package Signing with GnuPG](https://wiki.debian.org/SecureApt)
 * [Git Tools - Signing Your Work with GnuPG](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
-* [pass: the standard unix password manager](https://www.passwordstore.org/)
 
 ## Project Missing?
 
