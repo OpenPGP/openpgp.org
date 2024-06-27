@@ -5,8 +5,6 @@ excerpt: "Why OpenPGP"
 modified: 2001-02-15T15:00:00-00:00
 ---
 
-{% include base_path %}
-
 Philip Zimmermann
 27 Feb 2001
 

@@ -5,8 +5,6 @@ excerpt: "About OpenPGP"
 modified: 2020-11-25T15:00:00-00:00
 ---
 
-{% include base_path %}
-
 OpenPGP is a non-proprietary format for authenticating or encrypting data, using public key cryptography.
 
 It is based on the original PGP (Pretty Good Privacy) software.

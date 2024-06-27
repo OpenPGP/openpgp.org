@@ -4,8 +4,6 @@ permalink: /software/
 excerpt: "Email Encryption"
 ---
 
-{% include base_path %}
-
 {% include toc %}
 
 All email applications on this page support the OpenPGP standard either directly or with additional software.

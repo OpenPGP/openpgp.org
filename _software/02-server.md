@@ -4,8 +4,6 @@ permalink: /software/server/
 excerpt: "Server software"
 ---
 
-{% include base_path %}
-
 {% include toc %}
 
 All applications on this page implement the OpenPGP standard.

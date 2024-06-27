@@ -5,8 +5,6 @@ excerpt: "OpenPGP Standard"
 modified: 2022-11-22T11:30:00-00:00
 ---
 
-{% include base_path %}
-
 The OpenPGP Proposed Standard is defined by the OpenPGP Working Group of the Internet Engineering Task Force (IETF) in [RFC 4880](https://tools.ietf.org/html/rfc4880).
 This document contains all the necessary information to develop interoperable applications based on the OpenPGP format.
 It describes the format and methods needed to read, check, generate, and write conforming encrypted messages, keys, and signatures.

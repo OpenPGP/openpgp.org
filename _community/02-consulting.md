@@ -4,8 +4,6 @@ permalink: /community/consulting/
 excerpt: "Consulting"
 ---
 
-{% include base_path %}
-
 ## Consulting
 
 The following organizations provide OpenPGP consulting.

@@ -5,13 +5,13 @@ Dominik Schuermann:
   uri         : "https://www.sufficientlysecure.org/"
   email       : "dominik@dominikschuermann.de"
   bio         : ""
-  avatar      : "schuermann.jpg"
+  avatar      : "/images/schuermann.jpg"
   github      : "dschuermann"
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   email       : "cornelius@thewhip.com"
   bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
+  avatar      : "/images/bio-photo.jpg"
   twitter     : "rhymeswithsackit"
   google_plus : "CorneliusFiddlebone"
