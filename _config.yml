@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : minimal-mistakes-jekyll
 locale                   : "en"
 title                    : "OpenPGP"
 title_separator          : "-"
@@ -47,6 +48,12 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+footer:
+  links:
+    - label: "This site is organized in the open on GitHub.  Suggest changes."
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/OpenPGP/openpgp.org/"
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -78,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "OpenPGP"
-  avatar           : "bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : ""
   location         : ""
   email            :

@@ -5,8 +5,6 @@ excerpt: "History of OpenPGP"
 modified: 2016-08-15T15:00:00-00:00
 ---
 
-{% include base_path %}
-
 OpenPGP is a non-proprietary protocol for encrypting email using public key cryptography.
 The OpenPGP protocol defines standard formats for encrypted messages, signatures, private keys, and certificates for exchanging public keys.
 

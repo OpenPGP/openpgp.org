@@ -4,8 +4,6 @@ permalink: /community/
 excerpt: "Community"
 ---
 
-{% include base_path %}
-
 ## Community
 
 The following mailing lists are related to OpenPGP without connection to specific projects:
