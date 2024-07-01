@@ -3,6 +3,8 @@ title: "Minutes of the 8th OpenPGP Summit (2024)"
 permalink: /community/email-summit/2024/minutes/
 ---
 
+{% include toc %}
+
 ## software represented
 
 - Enigmail (Seamonkey/Thunderbird forks plugin)
@@ -30,6 +32,8 @@ permalink: /community/email-summit/2024/minutes/
 - post-quantum cryptography
 - e2e-mail-guidance
 - (webcrypto)
+
+# Reports
 
 ## IETF OpenPGP WG Report - dkg
 
