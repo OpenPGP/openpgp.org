@@ -24,5 +24,5 @@ RUN bundle config set --local path 'vendor/bundle' && bundle install && bundle a
 
 COPY assets/* /site/assets/
 COPY images/* /site/images/
-COPY _* /site
+COPY _* /site/
 CMD ["/usr/bin/bundle", "exec", "jekyll", "serve", "--host=0.0.0.0"]
