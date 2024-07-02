@@ -13,7 +13,7 @@ please remove it.  We are using
 [`jekyll-last-modified-at`](https://github.com/gjtorikian/jekyll-last-modified-at)
 which will use the modification time from git now.
 
-# How to build the site locally
+# How to build the site locally (non-docker)
 
 First, you'll need to install the Ruby dependencies.  Starting with
 Ruby and Bundler (e.g. `apt install ruby bundler`), execute the
@@ -52,6 +52,22 @@ Go to http://127.0.0.1:4000 to see the site.  Jekyll will pick up
 changes to most files (but notably not to the top-level configuration
 file) and rebuild the site, but you'll still need to reload the site
 in your web browser.
+
+# How to build the site locally (docker)
+
+```
+docker build -t openpgpdotorg .
+docker run -p 4000:4000 --rm openpgpdotorg
+```
+
+Note however that this will *not* auto-update when making changes to the local copy.
+You will have to rebuild the docker container to pick up changes (but this should be fast).
+
+Remember to periodically clean up stale/untagged docker images:
+
+```
+docker image list -f dangling=true -q | awk '{print $1}' | xargs docker rmi
+```
 
 # Licenses
 * Theme: [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) MIT License
