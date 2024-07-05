@@ -15,6 +15,7 @@ The following mailing lists are related to OpenPGP without connection to specifi
 
 The OpenPGP Email Summits are meetings of experts to discuss technical details around encrypted emails using OpenPGP.
 
+  * [2nd OpenPGP Email Summit, December 2015 in Zurich](/community/email-summit/2015-12/)
   * [3rd OpenPGP Email Summit, July 2016 in Dreieich (near Frankfurt)](/community/email-summit/2016/)
   * [4th OpenPGP Email Summit, October 2018 in Brussels](/community/email-summit/2018/)
   * [5th OpenPGP Email Summit, October 2019 in Berlin](/community/email-summit/2019/)
