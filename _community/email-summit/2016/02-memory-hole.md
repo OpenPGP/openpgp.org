@@ -10,7 +10,7 @@ permalink: /community/email-summit/2016/minutes/memory-hole
 *Memory Hole spec and documentation:
 [https://github.com/autocrypt/memoryhole/](https://github.com/autocrypt/memoryhole/)*
 *Follow up session to the [Workshop at 2nd OpenPGP Email Summit, Dec
-2015](/community/email-summit/2015/minutes/memory-hole)*
+2015](/community/email-summit/2015-12/minutes/memory-hole)*
 
 complex structures signalling acceptance alternate interpretations?
 

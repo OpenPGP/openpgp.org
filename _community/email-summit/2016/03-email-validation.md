@@ -9,7 +9,7 @@ This is a summary and outcome of two session of the [3rd Open PGP
 Email Summit](..) discussing how to deal with Key/Email Validations.
 
 The topic is a follow-up from
-[OpenPGPEmailSummit201512/EmailValidation](/community/email-summit/2015/minutes/email-validation).
+[OpenPGPEmailSummit201512/EmailValidation](/community/email-summit/2015-12/minutes/email-validation).
 
 Some notes about the [Web Key
 Service](https://www.ietf.org/id/draft-koch-openpgp-webkey-service-01.txt)
