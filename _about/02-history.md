@@ -22,10 +22,10 @@ Each distinct version of an Internet standards-related specification is publishe
 
 OpenPGP is on the Internet Standards Track and is under active development.
 Many e-mail clients provide OpenPGP-compliant email security as described in RFC 3156.
-The current specification is RFC 4880 (November 2007), the successor to RFC 2440. RFC 4880 specifies a suite of required algorithms consisting of ElGamal encryption, DSA, Triple DES and SHA-1.
-In addition to these algorithms, the standard recommends RSA as described in PKCS #1 v1.5 for encryption and signing, as well as AES-128, CAST-128 and IDEA.
+The current specification is RFC 9580 (August 2024), the successor to RFC 4880.
+RFC 9580 specifies a suite of required algorithms consisting of X25519, Ed25519, AES-OCB, and SHA2-256.
+In addition to these algorithms, the standard recommends X448, Ed448, AES-256, SHA2-384, and SHA2-512
 Beyond these, many other algorithms are supported.
-The standard was extended to support Camellia cipher by RFC 5581 in 2009, and encryption based on elliptic curve cryptography (ECDSA, ECDH) by RFC 6637 in 2012. Support of EdDSA will be added by draft-koch-eddsa-for-openpgp-00 proposed in 2014.
 
 As far as we know, [intelligence organizations aren't able to break it](http://www.theverge.com/2014/12/28/7458159/encryption-standards-the-nsa-cant-crack-pgp-tor-otr-snowden).
 

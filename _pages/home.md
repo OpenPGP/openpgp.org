@@ -28,7 +28,7 @@ feature_row:
     url: "/about/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'OpenPGP is the most widely used email encryption standard. It is defined by the OpenPGP Working Group of the Internet Engineering Task Force (IETF) as a Proposed Standard in [RFC 4880](https://tools.ietf.org/html/rfc4880). OpenPGP was originally derived from the PGP software, created by [Phil Zimmermann](https://philzimmermann.com).'
+  - excerpt: 'OpenPGP is the most widely used email encryption standard. It is defined by the OpenPGP Working Group of the Internet Engineering Task Force (IETF) as a Proposed Standard in [RFC 9580](https://www.rfc-editor.org/rfc/rfc9580.html). OpenPGP was originally derived from the PGP software, created by [Phil Zimmermann](https://philzimmermann.com).'
 ---
 
 {% include feature_row id="intro" type="center" %}
