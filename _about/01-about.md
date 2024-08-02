@@ -17,4 +17,4 @@ OpenPGP also defines a standard format for certificates which, unlike most other
 
 OpenPGP formats and uses are specified in many [IETF RFCs and drafts](https://www.ietf.org/standards/rfcs/)[^rfcs], so these standards can be implemented by any company without paying any licensing fees to anyone.
 
-[^rfcs]: [RFC 3156](https://tools.ietf.org/html/rfc3156) MIME Security with OpenPGP, [RFC 4880](https://tools.ietf.org/html/rfc4880) OpenPGP Message Format (the main one), [RFC 5581](https://tools.ietf.org/html/rfc5581) The Camellia Cipher in OpenPGP, [RFC 6091](https://tools.ietf.org/html/rfc6091) Using OpenPGP Keys for Transport Layer Security (TLS) Authentication, [RFC 6637](https://tools.ietf.org/html/rfc6637) Elliptic Curve Cryptography (ECC) in OpenPGP, and [more](/about/standard/).
+[^rfcs]: [RFC 3156](https://tools.ietf.org/html/rfc3156) MIME Security with OpenPGP, [RFC 9580](https://www.rfc-editor.org/rfc/rfc9580.html) OpenPGP (the main one), [RFC 6091](https://tools.ietf.org/html/rfc6091) Using OpenPGP Keys for Transport Layer Security (TLS) Authentication, and [more](/about/standard/).
