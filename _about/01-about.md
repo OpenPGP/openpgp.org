@@ -7,7 +7,7 @@ modified: 2020-11-25T15:00:00-00:00
 
 OpenPGP is a non-proprietary format for authenticating or encrypting data, using public key cryptography.
 
-It is based on the original PGP (Pretty Good Privacy) software.
+It is based on the original PGP ([Pretty Good Privacy](https://en.wikipedia.org/wiki/PGP)) software, created by [Phil Zimmermann](https://philzimmermann.com/).
 
 Beginning in 1997, the OpenPGP Working Group was formed in the Internet Engineering Task Force (IETF) to define this standard that had formerly been a proprietary product since 1991.
 
