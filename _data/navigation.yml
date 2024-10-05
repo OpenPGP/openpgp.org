@@ -23,6 +23,8 @@ about:
         url: /about/standard/
       - title: "Documentation"
         url: /about/documentation/
+      - title: "Stateless OpenPGP"
+        url: /about/sop/
 
 # software
 software:
