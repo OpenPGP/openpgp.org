@@ -52,6 +52,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Delta Chat](/software/deltachat)
 * [FlowCrypt](/software/flowcrypt/)
 * [iPGMail](/software/ipgmail/)
+* [PGP Everywhere](https://www.pgpeverywhere.com/)
 * [PGPro](/software/pgpro/)
 * [Planck](/software/planck/)
 
