@@ -12,6 +12,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Bouncy Castle](https://www.bouncycastle.org/) (Low-level Java/C#)
 * [calccrypto/OpenPGP](https://github.com/calccrypto/OpenPGP) (C++)
+* [Crypt::OpenPGP](https://github.com/perl-Crypt-OpenPGP/Crypt-OpenPGP) (Perl)
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
   with Python and Lisp bindings)
 * [go-crypto (ProtonMail fork)](https://github.com/ProtonMail/go-crypto) (Go, low level)
