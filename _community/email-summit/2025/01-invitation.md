@@ -12,7 +12,7 @@ permalink: /community/email-summit/2025/
 
 ## Location
 
-TBD.
+The event will take place at [Hotel Sonnennof](https://www.sonnenhof-dtz.de/) in [Dietzenbach](https://www.openstreetmap.org/#map=13/50.0124/8.7762), near Frankfurt.
 
 ## Purpose
 
@@ -42,8 +42,32 @@ public.
 
 ## Registration
 
-TBD.
+The event, including a hotel room for **2 nights** and lunch are **offered by the Wau Holland Stiftung** 
+(If you want to stay longer, you can pay for the extra nights on your own).
+
+*Details for registration will follow.*
 
 ## Agenda
 
-TBD.
+Thursday, April 3, 2025:
+* 19:30 Informal gathering *(location TBA)*
+
+Friday, April 4, 2025:
+* 09:30: Welcome, Organizational Issues, Agenda and Schedule
+* 09:45: Report on action items of last Summit
+* 10:15: Plenary Talks
+* 12:30: Lunch
+* 13:30: Organizing Working Groups
+* 14:00: Working Groups
+* 19:30: Dinner (location TBA)
+
+Saturday, April 5, 2025:
+* 09:30: Working Groups
+* 12:30: Lunch
+* 13:00: Working Group
+* 15:30: Final Working Group Reports
+* 16:15: Wrap up
+* 17:00: End
+
+Sunday, April 6, 2025:
+09:00 - 17:00: Hacking Day
