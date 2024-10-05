@@ -26,6 +26,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [Pignus](https://www.frobese.de/pignus) (iOS)
 * [neutriNote](https://play.google.com/store/apps/details?id=com.appmindlab.nano) (Android)
+* [Conversations](https://conversations.im/) (Android)
 
 ## Project Missing?
 
