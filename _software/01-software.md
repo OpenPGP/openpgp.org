@@ -54,7 +54,6 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [iPGMail](/software/ipgmail/)
 * [PGPro](/software/pgpro/)
 * [Planck](/software/planck/)
-* [Safe Easy Privacy](/software/safe/)
 
 ## Linux
 
