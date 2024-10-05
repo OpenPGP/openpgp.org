@@ -12,6 +12,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 * [pass: the standard unix password manager](https://www.passwordstore.org/)
 * [Passbolt](https://www.passbolt.com/)
+* [sp](https://gitler.moe/suwako/sp)
 
 ## PC Applications
 
