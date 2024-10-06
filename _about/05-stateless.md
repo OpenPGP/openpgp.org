@@ -13,6 +13,7 @@ SOP wrappers exist around several OpenPGP implementations; in principle each SOP
 * [GOpenPGP (gosop)](https://github.com/ProtonMail/gosop)
 * [OpenPGP.js](https://github.com/openpgpjs/sop-openpgpjs)
 * [PGPainless](https://github.com/pgpainless/pgpainless/blob/main/docs/source/pgpainless-cli/usage.md)
+* [PGPy](https://github.com/dkg/PGPy/blob/dkg/crypto-refresh/pgpy/sopgpy.py)
 * [RNP](https://gitlab.com/sequoia-pgp/rnp-sop)
 * [rPGP (rsop)](https://lib.rs/crates/rsop)
 * [Sequoia PGP (sqop)](https://gitlab.com/sequoia-pgp/sequoia-sop)
