@@ -8,8 +8,6 @@ excerpt: "Consulting"
 
 The following organizations provide OpenPGP consulting.
 
-  * [Confidential Technologies GmbH](https://www.cotech.de/en/labs/?pk_campaign=openpgp.org)
-  * [Giegerich & Partner GmbH](https://www.giepa.de/services/)
   * [g10 Code GmbH](https://g10code.com/)
   * [Intevation GmbH](https://intevation.de/)
 
