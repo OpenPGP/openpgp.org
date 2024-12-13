@@ -11,6 +11,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## OpenPGP Libraries
 
 * [Bouncy Castle](https://www.bouncycastle.org/) (Low-level Java/C#)
+* [DidiSoft OpenPGP Library](https://didisoft.com/) (High-level Java/C#/PL/SQL/T-SQL)
 * [calccrypto/OpenPGP](https://github.com/calccrypto/OpenPGP) (C++)
 * [Crypt::OpenPGP](https://github.com/perl-Crypt-OpenPGP/Crypt-OpenPGP) (Perl)
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
