@@ -3,7 +3,9 @@ title: "The 9th OpenPGP Email Summit, April 2025"
 permalink: /community/email-summit/2025/
 ---
 
-**Save the date!**
+## Event Organizer
+
+**The [Wau Holland Stiftung](https://wauland.de) invites you to the 9th OpenPGP Summit**
 
 ## Overall Schedule
 
@@ -45,7 +47,10 @@ public.
 The event, including a hotel room for **2 nights** and lunch are **offered by the Wau Holland Stiftung** 
 (If you want to stay longer, you can pay for the extra nights on your own).
 
-*Details for registration will follow.*
+If you want to attend, please:
+
+1. add your name to the [List of Attendees](https://cryptpad.fr/sheet/#/2/sheet/edit/4Uc9qcDQDj4bRDFTxUM7JkCK/) (Cryptpad).
+2. [book a room at the hotel](https://www.sonnenhof-dtz.de/buchen-reservieren/), providing the **booking code** "OpenPGP Event" in the comment field.
 
 ## Agenda
 
@@ -70,4 +75,4 @@ Saturday, April 5, 2025:
 * 17:00: End
 
 Sunday, April 6, 2025:
-09:00 - 17:00: Hacking Day
+* 09:00 - 17:00: Hacking Day
