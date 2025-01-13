@@ -2,14 +2,26 @@
 title: "SecureMyEmail"
 permalink: /software/securemyemail
 excerpt: "Email Encryption"
-modified: 2024-01-09T16:00:00-00:00
+modified: 2024-01-13T15:00:00-00:00
 ---
 
-SecureMyEmail for Android, iOS, macOS, and Windows implements the OpenPGP standard.
+SecureMyEmail for Windows, Mac, iOS, iPadOS, and Android implements the OpenPGP standard to encrypt email. Encryption and decryption are handled seamlessly in-app. 
+
+Users can generate and manage keys via the built-in Advanced menu, as well as import their own through our Windows and Mac software to be distributed to all their devices, including mobile devices.
+
+Users are free to export and use their SecureMyEmail-generated OpenPGP keys in other applications, as well as keep them forever, even if they decide to not use the service anymore.
+
+Our unique and innovative password-less method utilizes OpenPGP to ensure all emails are encrypted in transit and at rest with zero burden on the recipient(s). 
+
+Recipients don’t have to use SecureMyEmail, download anything, register for anything, or even use a password to decrypt messages sent from a SecureMyEmail user. They may then reply, adding attachments of their own if they wish, and all communication is fully protected and encrypted at rest with zero-knowledge encryption.
+
+SecureMyEmail can provide end-to-end encryption to ANY IMAP email address, personal or business, including Gmail, Google Workspace, Microsoft 365, iCloud, Outlook, Yahoo, etc.
+
+Our free tier provides “free forever” access to email addresses ending in gmail.com, yahoo.com, or Microsoft consumer domains including outlook.com, hotmail.com, live.com, msn.com including international variations of those domains.
 
 ### Key Facts
 
-* Developer/Publisher: [WiTopia, Inc.](https://www.securemyemail.com/)
+* Developer/Publisher: [WiTopia, Inc.](https://www.witopia.com/)
 * License: Proprietary (Closed Source)
 * Encryption Library:
 	* Golang OpenPGP for ios, macOS, and Windows
