@@ -11,9 +11,8 @@ Users can generate and manage keys via the built-in Advanced menu, as well as im
 
 Users are free to export and use their SecureMyEmail-generated OpenPGP keys in other applications, as well as keep them forever, even if they decide to not use the service anymore.
 
-Our unique and innovative password-less method utilizes OpenPGP to ensure all emails are encrypted in transit and at rest with zero burden on the recipient(s). 
 
-Recipients don’t have to use SecureMyEmail, download anything, register for anything, or even use a password to decrypt messages sent from a SecureMyEmail user. They may then reply, adding attachments of their own if they wish, and all communication is fully protected and encrypted at rest with zero-knowledge encryption.
+Recipients don’t have to use SecureMyEmail, download anything, or register for anything to decrypt messages sent from a SecureMyEmail user. They may then reply, adding attachments of their own if they wish, and all communication is fully encrypted in transit, and at rest.
 
 SecureMyEmail can provide end-to-end encryption to ANY IMAP email address, personal or business, including Gmail, Google Workspace, Microsoft 365, iCloud, Outlook, Yahoo, etc.
 
