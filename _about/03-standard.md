@@ -34,6 +34,8 @@ Besides the message format specified in RFC 9580, a collection of other OpenPGP-
 * [OpenPGP Signature Salt Notation](https://datatracker.ietf.org/doc/html/draft-huigens-openpgp-signature-salt-notation)
 * [PQ/T Composite Schemes for OpenPGP using NIST and Brainpool Elliptic Curve Domain Parameters](https://datatracker.ietf.org/doc/draft-ehlen-openpgp-nist-bp-comp)
 * [OpenPGP External Secret Keys](https://datatracker.ietf.org/doc/draft-dkg-openpgp-external-secrets)
+* [OpenPGP Signatures and Signed Messages](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-signatures)
+* [OpenPGP Prompting and Caching](https://datatracker.ietf.org/doc/draft-dkg-openpgp-prompting-caching)
 
 ### Obsolete or Expired Internet Drafts
 * [Shared OpenPGP Certificate Directory](https://datatracker.ietf.org/doc/draft-nwjw-openpgp-cert-d)
