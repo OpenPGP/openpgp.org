@@ -21,6 +21,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [Gpg4win](/software/gpg4win/)
   * [Planck](/software/planck/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
+* [SecureMyEmail](/software/securemyemail/)
 * [The Bat!](/software/thebat/)
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
@@ -33,6 +34,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Delta Chat](/software/deltachat)
 * [Mutt](/software/mutt/)
 * [Postbox](/software/postbox/) using [Enigmail](/software/enigmail/)
+* [SecureMyEmail](/software/securemyemail/)
 * [Thunderbird](/software/thunderbird):
   * [Autocrypt](/software/autocrypt/) for versions <78
   * [Enigmail](/software/enigmail/) for versions <78
@@ -45,6 +47,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [Planck](/software/planck/)
 * [R2Mail2](/software/r2mail2/)
+* [SecureMyEmail](/software/securemyemail/)
 
 ## iOS
 
@@ -55,6 +58,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [PGP Everywhere](https://www.pgpeverywhere.com/)
 * [PGPro](/software/pgpro/)
 * [Planck](/software/planck/)
+* [SecureMyEmail](/software/securemyemail/)
 
 ## Linux
 
