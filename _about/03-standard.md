@@ -23,7 +23,7 @@ Besides the message format specified in RFC 9580, a collection of other OpenPGP-
 
 ### Active Working Group Internet Drafts
 * [Post-Quantum Cryptography in OpenPGP](https://datatracker.ietf.org/doc/html/draft-ietf-openpgp-pqc)
-* [OpenPGP Replacement Key Signalling Mechanism](https://tools.ietf.org/html/draft-ietf-openpgp-replacementkey)
+* [OpenPGP Key Replacement](https://tools.ietf.org/html/draft-ietf-openpgp-replacementkey)
 * [Persistent Symmetric Keys in OpenPGP](https://datatracker.ietf.org/doc/html/draft-ietf-openpgp-persistent-symmetric-keys)
 
 ### Other Active Internet Drafts
