@@ -14,7 +14,7 @@ permalink: /community/email-summit/2025/
 
 ## Location
 
-The event will take place at [Hotel Sonnennof](https://www.sonnenhof-dtz.de/) in [Dietzenbach](https://www.openstreetmap.org/#map=13/50.0124/8.7762), near Frankfurt.
+The event will take place at [Hotel Sonnenhof](https://www.sonnenhof-dtz.de/) in [Dietzenbach](https://www.openstreetmap.org/#map=13/50.0124/8.7762), near Frankfurt.
 
 ## Purpose
 

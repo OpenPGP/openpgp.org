@@ -13,7 +13,7 @@ permalink: /community/email-summit/2024/
 * Main Event:  Friday & Saturday, June 7/8, 2024 
 
 ## Location
-The event will take place at [Hotel Sonnennof](https://www.sonnenhof-dtz.de/) in [Dietzenbach](https://www.openstreetmap.org/#map=13/50.0124/8.7762), near Frankfurt.
+The event will take place at [Hotel Sonnenhof](https://www.sonnenhof-dtz.de/) in [Dietzenbach](https://www.openstreetmap.org/#map=13/50.0124/8.7762), near Frankfurt.
 
 ## Purpose
 Meeting of experts to discuss technical details around encrypted emails using OpenPGP.
