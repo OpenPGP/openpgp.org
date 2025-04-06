@@ -76,3 +76,6 @@ Saturday, April 5, 2025:
 
 Sunday, April 6, 2025:
 * 09:00 - 17:00: Hacking Day
+
+## Meeting Minutes
+[Meeting Minutes](minutes/).
