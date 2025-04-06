@@ -1,5 +1,29 @@
-# Minutes of 9th OpenPGP Summit 2025-04-04 / 05
+---
+title: "Minutes of the 9th OpenPGP Summit (2025)"
+permalink: /community/email-summit/2025/minutes/
+---
 
+{% include toc %}
+
+## software represented
+
+- Enigmail (Seamonkey/Thunderbird forks plugin)
+- Thunderbird
+- Hockeypuck keyserver
+- keys.openpgp.org keyserver
+- Proton
+- Delta Chat
+- rPGP
+- PGPy
+- Debian
+- Sequoia
+- Planck Security (was pEp Security)
+- RNP
+- OpenPGP.js
+- go-crypto & GopenPGP
+- Parula MUA
+
+# Reports
 
 ## Action items update
 
