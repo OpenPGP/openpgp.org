@@ -15,6 +15,7 @@ permalink: /community/email-summit/2025/minutes/
 - Delta Chat
 - rPGP
 - PGPy
+- FreePG
 - Debian
 - Sequoia
 - RNP
