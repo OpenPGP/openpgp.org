@@ -17,7 +17,6 @@ permalink: /community/email-summit/2025/minutes/
 - PGPy
 - Debian
 - Sequoia
-- Planck Security (was pEp Security)
 - RNP
 - OpenPGP.js
 - go-crypto & GopenPGP
