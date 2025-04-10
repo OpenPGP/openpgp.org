@@ -1,5 +1,5 @@
 ---
-title: "Minutes of the 9th OpenPGP Summit (2025)"
+title: "Minutes of the 9th OpenPGP Email Summit (2025)"
 permalink: /community/email-summit/2025/minutes/
 ---
 
