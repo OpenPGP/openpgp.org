@@ -25,4 +25,4 @@ clients using OpenPGP for encryption.
 
 ## Registration, Schedule, etc.
 
-*More etails will follow around December 2025*
+*More details will follow around December 2025*
