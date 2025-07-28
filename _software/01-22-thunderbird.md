@@ -2,7 +2,6 @@
 title: "Thunderbird"
 permalink: /software/thunderbird/
 excerpt: "Email Encryption"
-modified: 2021-07-08T12:00:00-00:00
 ---
 
 The Email Client Mozilla Thunderbird supports OpenPGP directly since version 78.
