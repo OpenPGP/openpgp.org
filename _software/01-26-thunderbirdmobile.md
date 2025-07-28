@@ -4,7 +4,7 @@ permalink: /software/thunderbirdmobile/
 excerpt: "Email Encryption"
 ---
 
-The Android Mobile Email Client Mozilla Thunderbird supports OpenPGP directly since version 78.
+The Android Mobile Email Client Mozilla Thunderbird supports OpenPGP directly. Available in the Google Play Store or for F-Droid.
 
 ### Key Facts
 
