@@ -46,6 +46,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [R2Mail2](/software/r2mail2/)
 * [SecureMyEmail](/software/securemyemail/)
+* [Thunderbird](/software/thunderbirdmobile/)
 
 ## iOS
 
