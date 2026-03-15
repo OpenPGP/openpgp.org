@@ -54,7 +54,7 @@ If you want to attend, please:
 ## Agenda
 
 Thursday, March 26, 2026:
-* 19:30 Informal gathering, location tba
+* 19:30 Informal gathering at [L'Osteria](https://www.myzeil.de/gastronomie/losteria/?location=p125-7) in the myZeil Shopping Center in Frankfurt
 
 Friday, March 27, 2026:
 * 09:30: Welcome, Organizational Issues, Agenda and Schedule
@@ -63,7 +63,7 @@ Friday, March 27, 2026:
 * 12:30: Lunch
 * 13:30: Organizing Working Groups
 * 14:00: Working Groups
-* 19:30: Dinner tba
+* 19:30: Dinner at Restaurant [Stadtliebe](https://maps.app.goo.gl/89qvHHpbxbYws6Bf7) in Dietzenbach
 
 Saturday, March 28, 2026:
 * 09:30: Working Groups
