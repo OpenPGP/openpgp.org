@@ -75,3 +75,6 @@ Saturday, March 28, 2026:
 
 Sunday, March 29, 2026:
 * 09:00 - 17:00: Hacking Day
+
+## Meeting Minutes
+[Meeting Minutes](minutes/).
