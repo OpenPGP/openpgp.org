@@ -42,7 +42,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
   with Python and Lisp bindings)
 * [Hardware Security SDK](https://hwsecurity.dev) (Java)
-* [openpgp-card](https://gitlab.com/openpgp-card/openpgp-card) (Rust)
+* [openpgp-card](https://codeberg.org/openpgp-card/openpgp-card) (Rust)
 * [OpenSC](https://github.com/OpenSC/OpenSC/wiki/OpenPGP-card) (C)
 
 ## Developer Tools
