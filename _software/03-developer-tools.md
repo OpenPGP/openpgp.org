@@ -22,6 +22,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) (Haskell)
 * [IPWorks OpenPGP](https://www.nsoftware.com/ipworks/pgp/) (.NET, Java, C++, Python, Delphi, PHP, Node.js, Android, iOS)
 * [kbpgp](https://github.com/keybase/kbpgp/) (JavaScript)
+* [minipgp6](https://minipgp6.org/) (Rust, v6 only)
 * [NeoPG](https://github.com/das-labor/neopg) (C++, GnuPG fork as a library)
 * [NetPGP](http://www.netpgp.com/) (C, with Python, Perl and Lua bindings)
 * [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP) (Objective C)
@@ -42,7 +43,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
   with Python and Lisp bindings)
 * [Hardware Security SDK](https://hwsecurity.dev) (Java)
-* [openpgp-card](https://gitlab.com/openpgp-card/openpgp-card) (Rust)
+* [openpgp-card](https://codeberg.org/openpgp-card/openpgp-card) (Rust)
 * [OpenSC](https://github.com/OpenSC/OpenSC/wiki/OpenPGP-card) (C)
 
 ## Developer Tools
