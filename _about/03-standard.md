@@ -25,14 +25,14 @@ Besides the message format specified in RFC 9580, a collection of other OpenPGP-
 * [Post-Quantum Cryptography in OpenPGP](https://datatracker.ietf.org/doc/html/draft-ietf-openpgp-pqc)
 * [OpenPGP Key Replacement](https://tools.ietf.org/html/draft-ietf-openpgp-replacementkey)
 * [Persistent Symmetric Keys in OpenPGP](https://datatracker.ietf.org/doc/html/draft-ietf-openpgp-persistent-symmetric-keys)
+* [The OpenPGP HTTP Keyserver Protocol (HKP)](https://tools.ietf.org/html/draft-ietf-openpgp-hkp)
+* [PQ/T Composite Schemes for OpenPGP using NIST and Brainpool Elliptic Curve Domain Parameters](https://datatracker.ietf.org/doc/draft-ietf-openpgp-nist-bp-comp)
 
 ### Other Active Internet Drafts
 * [OpenPGP Web Key Directory](https://datatracker.ietf.org/doc/draft-koch-openpgp-webkey-service)
 * [Stateless OpenPGP Command Line Interface](https://datatracker.ietf.org/doc/draft-dkg-openpgp-stateless-cli)
 * [First-Party Approved Third-Party Certifications in OpenPGP](https://datatracker.ietf.org/doc/draft-dkg-openpgp-1pa3pc)
-* [The OpenPGP HTTP Keyserver Protocol (HKP)](https://tools.ietf.org/html/draft-gallagher-openpgp-hkp)
 * [OpenPGP Signature Salt Notation](https://datatracker.ietf.org/doc/html/draft-huigens-openpgp-signature-salt-notation)
-* [PQ/T Composite Schemes for OpenPGP using NIST and Brainpool Elliptic Curve Domain Parameters](https://datatracker.ietf.org/doc/draft-ehlen-openpgp-nist-bp-comp)
 * [OpenPGP External Secret Keys](https://datatracker.ietf.org/doc/draft-dkg-openpgp-external-secrets)
 * [OpenPGP Signatures and Signed Messages](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-signatures)
 * [OpenPGP Prompting and Caching](https://datatracker.ietf.org/doc/draft-dkg-openpgp-prompting-caching)
