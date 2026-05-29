@@ -26,6 +26,7 @@ The OpenPGP Email Summits are meetings of experts to discuss technical details a
   * [9th OpenPGP Email Summit, April 2025 in Dietzenbach (near Frankfurt)](/community/email-summit/2025/)
   * [OpenPGP Email Summit Interim, September 2025 (virtual meeting)](/community/email-summit/2025-interim/minutes/)
   * [10th OpenPGP Email Summit, March 2026 in Dietzenbach (near Frankfurt)](/community/email-summit/2026/)
+    * [LWN article](https://lwn.net/Articles/1072870/)
 
 ## Organization Missing?
 
