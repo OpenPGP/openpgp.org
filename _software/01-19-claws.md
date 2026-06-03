@@ -2,10 +2,9 @@
 title: "Claws Mail"
 permalink: /software/claws/
 excerpt: "Email Encryption"
-modified: 2020-03-07T23:05:00-00:00
 ---
 
-Claws Mail is a lightweight and fast email client based on GTK+ for Linux and Windows. It contains a plugin to enable email signing and encryption using GnuPG / gpgme, implementing the OpenPGP standard.
+Claws Mail is a lightweight and fast email client based on GTK+ for Linux and Windows. It contains a plugin to enable email signing and encryption using GnuPG / gpgme [^gpg], implementing the OpenPGP standard.
 
 ### Key Facts
 
@@ -16,3 +15,5 @@ Claws Mail is a lightweight and fast email client based on GTK+ for Linux and Wi
 * Help: Help is provided on their website
 	* [User Manual](https://claws-mail.org/documentation.php)
 	* [FAQ](https://claws-mail.org/faq/index.php/Main_Page)
+
+[^gpg]: GnuPG only supports OpenPGP up to [RFC4880+RFC5581+RFC6637](/about/gnupg) and newer versions generate incompatible formats by default

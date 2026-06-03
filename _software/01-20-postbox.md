@@ -2,10 +2,9 @@
 title: "Postbox"
 permalink: /software/postbox/
 excerpt: "Email Encryption"
-modified: 2020-04-17T21:40:00-00:00
 ---
 
-Postbox for macOS and Windows is a power email app that has the ease of use of Apple Mail, but with more features and configuration options to handle high-volume workloads. [Enigmail](/software/enigmail/) for Postbox, an add-on that uses GnuPG to implement the OpenPGP standard, enables email encryption and signing directly within the app.
+Postbox for macOS and Windows is a power email app that has the ease of use of Apple Mail, but with more features and configuration options to handle high-volume workloads. [Enigmail](/software/enigmail/) for Postbox, an add-on that uses GnuPG to implement the OpenPGP standard [^gpg], enables email encryption and signing directly within the app.
 
 ### Key Facts
 
@@ -19,3 +18,5 @@ Postbox for macOS and Windows is a power email app that has the ease of use of A
 * Help:
 	* [Documentation and Help Center](https://support.postbox-inc.com/hc/en-us)
 	* [Twitter](https://twitter.com/Postbox)
+
+[^gpg]: GnuPG only supports OpenPGP up to [RFC4880+RFC5581+RFC6637](/about/gnupg) and newer versions generate incompatible formats by default
