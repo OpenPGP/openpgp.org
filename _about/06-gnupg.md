@@ -1,5 +1,5 @@
 ---
-title: "GnuPG"
+title: "GnuPG and OpenPGP"
 permalink: /about/gnupg/
 excerpt: "GnuPG and OpenPGP"
 ---

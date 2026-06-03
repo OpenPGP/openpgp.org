@@ -25,6 +25,8 @@ about:
         url: /about/documentation/
       - title: "Stateless OpenPGP"
         url: /about/sop/
+      - title: "GnuPG and OpenPGP"
+        url: /about/gnupg/
 
 # software
 software:
