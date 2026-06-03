@@ -15,7 +15,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Crypt::OpenPGP](https://github.com/perl-Crypt-OpenPGP/Crypt-OpenPGP) (Perl)
 * [DidiSoft OpenPGP Library](https://didisoft.com/) (High-level Java/C#/PL/SQL/T-SQL)
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
-  with Python and Lisp bindings)
+  with Python and Lisp bindings) [^gpg]
 * [go-crypto (ProtonMail fork)](https://github.com/ProtonMail/go-crypto) (Go, low level)
 * [GOpenPGP](https://gopenpgp.org) (Go, high level)
 * [Haskell OpenPGP](https://hackage.haskell.org/package/openpgp) (Haskell)
@@ -41,7 +41,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## Libraries Supporting OpenPGP Smartcards
 
 * [GnuPG Made Easy (GPGME)](https://www.gnupg.org/related_software/gpgme/) (C,
-  with Python and Lisp bindings)
+  with Python and Lisp bindings) [^gpg]
 * [Hardware Security SDK](https://hwsecurity.dev) (Java)
 * [openpgp-card](https://codeberg.org/openpgp-card/openpgp-card) (Rust)
 * [OpenSC](https://github.com/OpenSC/OpenSC/wiki/OpenPGP-card) (C)
@@ -57,3 +57,5 @@ No security audits have been done by us and, thus, we cannot provide any securit
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
 Please note that we only include published, working software, which implements the standard.
 The software is ordered alphabetically within the sections.
+
+[^gpg]: GnuPG only supports OpenPGP up to [RFC4880+RFC5581+RFC6637](/about/gnupg) and newer versions generate incompatible formats by default

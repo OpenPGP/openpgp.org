@@ -17,7 +17,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 
 ## PC Applications
 
-* [GpgFrontend](/software/misc/gpgfrontend/) (Windows, macOS, Linux)
+* [GpgFrontend](/software/misc/gpgfrontend/) (Windows, macOS, Linux) [^gpg]
 
 ## Web-Based Tools
 
@@ -35,3 +35,5 @@ No security audits have been done by us and, thus, we cannot provide any securit
 If a project is missing and you would like it included, please open a pull request at [github.com/OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org).
 Please note that we only include published, working software, which implements the standard.
 The software is ordered alphabetically within the sections.
+
+[^gpg]: GnuPG only supports OpenPGP up to [RFC4880+RFC5581+RFC6637](/about/gnupg) and newer versions generate incompatible formats by default

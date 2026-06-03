@@ -4,7 +4,7 @@ permalink: /software/gpg4win/
 excerpt: "Email Encryption"
 ---
 
-Gpg4win initiative does not only offer email encryption but a whole suite of tools. It can also be used for file encryption directly in the file explorer. Gpg4win is also the official distribution of GnuPG for Windows. The international initiative wants to focus on the builder to easily create updated installers for GnuPG.
+Gpg4win initiative does not only offer email encryption but a whole suite of tools. It can also be used for file encryption directly in the file explorer. Gpg4win is also the official distribution of GnuPG for Windows [^gpg]. The international initiative wants to focus on the builder to easily create updated installers for GnuPG.
 
 ### Key Facts
 
@@ -16,3 +16,4 @@ Gpg4win initiative does not only offer email encryption but a whole suite of too
 	* [Support](https://gpg4win.org/community.html)
 	* [Forum](http://wald.intevation.org/forum/forum.php?forum_id=21)
 	
+[^gpg]: GnuPG only supports OpenPGP up to [RFC4880+RFC5581+RFC6637](/about/gnupg) and newer versions generate incompatible formats by default

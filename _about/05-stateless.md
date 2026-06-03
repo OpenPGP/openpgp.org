@@ -9,7 +9,7 @@ SOP wrappers exist around several OpenPGP implementations; in principle each SOP
 
 ## List of SOP Implementations
 
-* [GnuPG (gpgme-sop)](https://gitlab.com/sequoia-pgp/gpgme-sop)
+* [GnuPG (gpgme-sop)](https://gitlab.com/sequoia-pgp/gpgme-sop) [^gpg]
 * [GOpenPGP (gosop)](https://github.com/ProtonMail/gosop)
 * [OpenPGP.js](https://github.com/openpgpjs/sop-openpgpjs)
 * [PGPainless](https://github.com/pgpainless/pgpainless/blob/main/docs/source/pgpainless-cli/usage.md)
@@ -21,3 +21,5 @@ SOP wrappers exist around several OpenPGP implementations; in principle each SOP
 ## Further Info
 
 * [SOP page on ArchWiki](https://wiki.archlinux.org/title/Stateless_OpenPGP)
+
+[^gpg]: GnuPG only supports OpenPGP up to [RFC4880+RFC5581+RFC6637](/about/gnupg) and newer versions generate incompatible formats by default
