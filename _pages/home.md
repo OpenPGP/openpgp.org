@@ -9,7 +9,7 @@ header:
   caption:
 excerpt: 'Open. Universal. Decentralized.'
 intro:
-  - excerpt: '2026-06-05: Happy 35th Birthday to PGP!'
+  - excerpt: "[2026-06-05](https://www.philzimmermann.com/EN/news/index.html): Happy 35th Birthday to PGP!"
 feature_row:
   - image_path: /images/home_mailbox_bw.jpg
     alt: "Versatile cryptography"
