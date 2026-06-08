@@ -9,7 +9,7 @@ header:
   caption:
 excerpt: 'Open. Universal. Decentralised.'
 intro:
-  - excerpt: '2026-06-06: Happy 35th Birthday to OpenPGP! '
+  - excerpt: '2026-06-05: Happy 35th Birthday to OpenPGP! '
 feature_row:
   - image_path: /images/home_mailbox_bw.jpg
     alt: "Versatile cryptography"
