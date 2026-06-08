@@ -4,7 +4,7 @@ permalink: /about/standard/
 excerpt: "OpenPGP Standard"
 ---
 
-The OpenPGP Proposed Standard is defined by the [OpenPGP Working Group](https://datatracker.ietf.org/wg/openpgp/charter) of the Internet Engineering Task Force (IETF) in [RFC 9580](https://www.rfc-editor.org/rfc/rfc9580.html).
+The OpenPGP Proposed Standard is defined by the [OpenPGP Working Group](https://datatracker.ietf.org/wg/openpgp/charter) of the Internet Engineering Task Force (IETF) in [RFC 9580](https://www.rfc-editor.org/rfc/rfc9580.html) and [RFC 9980](https://www.rfc-editor.org/rfc/rfc9980.html).
 This document contains all the necessary information to develop interoperable applications based on the OpenPGP format.
 It describes the format and methods needed to read, check, generate, and write conforming encrypted messages, keys, and signatures.
 
@@ -12,6 +12,8 @@ Besides the message format specified in RFC 9580, a collection of other OpenPGP-
 
 ### IETF RFCs
 * [RFC 9580: OpenPGP](https://www.rfc-editor.org/rfc/rfc9580.html)
+* [RFC 9980: Post-Quantum Cryptography in OpenPGP](https://www.rfc-editor.org/rfc/rfc9980.html)
+
 * [RFC 3156: MIME Security with OpenPGP](https://tools.ietf.org/html/rfc3156)
 * [RFC 6091: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://tools.ietf.org/html/rfc6091)
 * [RFC 7929: DNS-Based Authentication of Named Entities (DANE) Bindings for OpenPGP](https://tools.ietf.org/html/rfc7929)
@@ -22,7 +24,6 @@ Besides the message format specified in RFC 9580, a collection of other OpenPGP-
 * [XEP-0374: OpenPGP for XMPP Instant Messaging](https://www.xmpp.org/extensions/xep-0374.html)
 
 ### Active Working Group Internet Drafts
-* [Post-Quantum Cryptography in OpenPGP](https://datatracker.ietf.org/doc/html/draft-ietf-openpgp-pqc)
 * [OpenPGP Key Replacement](https://tools.ietf.org/html/draft-ietf-openpgp-replacementkey)
 * [Persistent Symmetric Keys in OpenPGP](https://datatracker.ietf.org/doc/html/draft-ietf-openpgp-persistent-symmetric-keys)
 * [The OpenPGP HTTP Keyserver Protocol (HKP)](https://tools.ietf.org/html/draft-ietf-openpgp-hkp)

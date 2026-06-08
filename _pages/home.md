@@ -7,28 +7,28 @@ header:
   cta_label: "<i class='fa fa-download'></i> Get OpenPGP Software"
   cta_url: "/software/"
   caption:
-excerpt: 'Email encryption. For all operating systems. Standing the test of time.'
+excerpt: 'Open. Universal. Decentralized.'
+intro:
+  - excerpt: '2026-06-05: Happy 35th Birthday to OpenPGP! '
 feature_row:
   - image_path: /images/home_mailbox_bw.jpg
-    alt: "Email encryption"
-    title: "Email encryption"
-    excerpt: "Although OpenPGP's main purpose is end-to-end encrypted email communication, it is also utilized for encrypted messaging and other use cases such as password managers."
-    url: "/software/"
-    btn_label: "Learn More"
+    alt: "Versatile cryptography"
+    title: "Versatile cryptography"
+    excerpt: "From humble beginnings as a guerilla email encryption tool, OpenPGP has become a critical component of global internet security."
+    url: "/about/history/"
+    btn_label: "OpenPGP History"
   - image_path: /images/home_computer_bw.jpg
-    alt: "For all operating systems"
-    title: "For all operating systems"
+    alt: "Security for all"
+    title: "Security for all"
     excerpt: "OpenPGP is available for all major platforms, such as Windows, Mac OS, GNU/Linux, Android, and iOS."
     url: "/software/"
-    btn_label: "Learn More"
+    btn_label: "OpenPGP Software"
   - image_path: /images/home_stamp_bw.jpg
     alt: "Standing the test of time"
     title: "Standing the test of time"
-    excerpt: "OpenPGP was standardized in 1997 and since then continuously improved. As far as we know, intelligence organizations aren't able to break it."
-    url: "/about/"
-    btn_label: "Learn More"
-intro:
-  - excerpt: 'OpenPGP is the most widely used email encryption standard. It is defined by the OpenPGP Working Group of the Internet Engineering Task Force (IETF) as a Proposed Standard in [RFC 9580](https://www.rfc-editor.org/rfc/rfc9580.html). OpenPGP was originally derived from the PGP software, created by [Phil Zimmermann](https://philzimmermann.com).'
+    excerpt: "Recently updated for post-quantum security, OpenPGP offers an unmatched combination of security, universality and resilience."
+    url: "/about/standard/"
+    btn_label: "OpenPGP Standard"
 ---
 
 {% include feature_row id="intro" type="center" %}
