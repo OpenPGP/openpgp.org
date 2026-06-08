@@ -7,10 +7,12 @@
 
 # Site Settings
 theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "openpgp_contrast"
 locale                   : "en"
 title                    : "OpenPGP"
 title_separator          : "-"
 name                     : "OpenPGP"
+logo                     : "/images/logo.svg"
 description              : "Communicate more privately and securely on all your devices and operating systems."
 url                      : "https://www.openpgp.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,6 +83,8 @@ analytics:
   google:
     tracking_id          :
 
+copyright         : "The OpenPGP Organization"
+copyright_url     : "/community/organization/"
 
 # Site Author
 author:

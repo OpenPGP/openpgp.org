@@ -29,13 +29,16 @@ Besides the message format specified in RFC 9580, a collection of other OpenPGP-
 * [The OpenPGP HTTP Keyserver Protocol (HKP)](https://tools.ietf.org/html/draft-ietf-openpgp-hkp)
 * [PQ/T Composite Schemes for OpenPGP using NIST and Brainpool Elliptic Curve Domain Parameters](https://datatracker.ietf.org/doc/draft-ietf-openpgp-nist-bp-comp)
 
-### Other Active Internet Drafts
+### Recently Active Individual Internet Drafts
 * [OpenPGP Web Key Directory](https://datatracker.ietf.org/doc/draft-koch-openpgp-webkey-service)
 * [Stateless OpenPGP Command Line Interface](https://datatracker.ietf.org/doc/draft-dkg-openpgp-stateless-cli)
 * [First-Party Approved Third-Party Certifications in OpenPGP](https://datatracker.ietf.org/doc/draft-dkg-openpgp-1pa3pc)
 * [OpenPGP Signature Salt Notation](https://datatracker.ietf.org/doc/html/draft-huigens-openpgp-signature-salt-notation)
+* [GREASE in OpenPGP](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-grease)
 * [OpenPGP External Secret Keys](https://datatracker.ietf.org/doc/draft-dkg-openpgp-external-secrets)
-* [OpenPGP Signatures and Signed Messages](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-signatures)
+* [OpenPGP Certificates](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-certificates)
+* [OpenPGP Messages](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-messages)
+* [OpenPGP Signatures](https://datatracker.ietf.org/doc/draft-gallagher-openpgp-signatures)
 * [OpenPGP Prompting and Caching](https://datatracker.ietf.org/doc/draft-dkg-openpgp-prompting-caching)
 
 ### Obsolete or Expired Internet Drafts
