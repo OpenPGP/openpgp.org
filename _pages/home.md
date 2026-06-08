@@ -26,7 +26,7 @@ feature_row:
   - image_path: /images/home_stamp_bw.jpg
     alt: "Standing the test of time"
     title: "Standing the test of time"
-    excerpt: "Recently updated for post-quantum security, OpenPGP offers an unmatched combination of security, universality and resilience."
+    excerpt: "Recently updated for post-quantum cryptography, OpenPGP offers an unmatched combination of security, universality and resilience."
     url: "/about/standard/"
     btn_label: "OpenPGP Standard"
 ---
