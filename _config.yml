@@ -83,6 +83,8 @@ analytics:
   google:
     tracking_id          :
 
+copyright         : "The OpenPGP Organization"
+copyright_url     : "/community/organization/"
 
 # Site Author
 author:

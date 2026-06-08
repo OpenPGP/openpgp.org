@@ -49,3 +49,5 @@ community:
         url: /community/
       - title: "Consulting"
         url: /community/consulting/
+      - title: "Organization"
+        url: /community/organization/
