@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Get OpenPGP Software"
   cta_url: "/software/"
   caption:
-excerpt: 'Open. Universal. Decentralised.'
+excerpt: 'Open. Universal. Decentralized.'
 intro:
   - excerpt: '2026-06-05: Happy 35th Birthday to OpenPGP! '
 feature_row:
