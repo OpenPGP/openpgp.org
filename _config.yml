@@ -7,6 +7,7 @@
 
 # Site Settings
 theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "openpgp_contrast"
 locale                   : "en"
 title                    : "OpenPGP"
 title_separator          : "-"
