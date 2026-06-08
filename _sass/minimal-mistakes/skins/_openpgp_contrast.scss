@@ -9,11 +9,13 @@ $text-color: #000 !default;
 $muted-text-color: $text-color !default;
 $primary-color: #66cc66 !default; // this is the color of the OpenPGP logo; DO NOT CHANGE
 $border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #132610 !default;
-$link-color: #0584a1 !default;
+$footer-background-color: #132610 !default; // second palette value
+$link-color: #0584a1 !default; // third palette value
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+// $muted-background-color: #618d51 // fourth palette value
+// $high-contrast-color: #c69848 // fifth palette value
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;

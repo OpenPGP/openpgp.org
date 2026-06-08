@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#618d51"
   overlay_image: /images/StockSnap_YRS1EQOEDX.jpg
   cta_label: "<i class='fa fa-download'></i> Get OpenPGP Software"
   cta_url: "/software/"
