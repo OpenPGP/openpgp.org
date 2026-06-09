@@ -52,7 +52,7 @@ atom_feed:
 
 footer:
   links:
-    - label: "This site is organized in the open on GitHub.  Suggest changes."
+    - label: "Managed collaboratively via GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/OpenPGP/openpgp.org/"
 
