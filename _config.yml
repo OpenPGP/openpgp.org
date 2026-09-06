@@ -188,6 +188,9 @@ collections:
   community:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -245,6 +248,18 @@ defaults:
       comments: false
       sidebar:
         nav: "community"
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "contact"
 
 # Sass/SCSS
 sass:
