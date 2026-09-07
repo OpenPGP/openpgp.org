@@ -9,6 +9,9 @@ main:
   - title: "Community/Consulting"
     url: /community/
 
+  - title: "Contact"
+    url: /contact/
+
 # about
 about:
   - title: "About"
@@ -51,3 +54,12 @@ community:
         url: /community/consulting/
       - title: "Organization"
         url: /community/organization/
+
+# contact
+contact:
+  - title: "Contact"
+    children:
+      - title: "OpenPGP Contact"
+        url: /contact/
+#      - title: "LibrePGP Contact"
+#        url: /contact/librepgp/
