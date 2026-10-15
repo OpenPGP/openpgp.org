@@ -18,6 +18,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 ## PC Applications
 
 * [GpgFrontend](/software/misc/gpgfrontend/) (Windows, macOS, Linux) [^gpg]
+* [WinGPG](https://scand.com/products/wingpg/) (Windows)
 
 ## Web-Based Tools
 
