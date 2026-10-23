@@ -105,6 +105,7 @@ Other authorized providers with API support:
 In contrast to the previous section, the following webmail providers do not require the installation of additional browser plugins, instead OpenPGP is implemented in JavaScript provided directly by the website.
 While these are easier to set up and provide basic security guarantees with OpenPGP, [some people don't consider these "end-to-end secure"](https://tonyarcieri.com/whats-wrong-with-webcrypto).
 
+* [Aster Mail](https://astermail.org/)
 * [Hushmail](https://www.hushmail.com/) (limited OpenPGP support)
 * [Mailfence](https://www.mailfence.com/)
 * [postale.io](https://postale.io/)
